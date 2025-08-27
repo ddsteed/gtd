@@ -1,0 +1,15 @@
+#+#+STARTUP: content showstars indent
+#+#+OPTIONS: tex:t
+
+* Personal [0/0]
+
+* Tasks [0/1]
+
+** ⚔ INPR 学习 CogniSphere 平台
+SCHEDULED: <2025-08-26 Tue>
+- [X] 重复示例
+- [ ] 研究 light-rag
+- [ ] 融入 AI-platform
+
+*** 问题
+- 解析文档速度很慢

@@ -1,0 +1,409 @@
+#    -*- mode: org -*-
+#+STARTUP: nofold
+
+
+Archived entries from file /Users/fenghao/Work/Org/Research.org
+
+* ✔ DONE Mathematical Script to cal 2e MP2 energy <2016-06-30 Thu>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2017-01-08 Sun 18:19
+  :ARCHIVE_FILE: ~/Work/Org/Research.org
+  :ARCHIVE_OLPATH: Hyllerras functional for MP2
+  :ARCHIVE_CATEGORY: Research
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* ✘ CANCELED Hyllerras functional for MP2 [0/0]
+CLOSED: [2020-11-18 Wed 22:36]
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-22 Sun 16:33
+:ARCHIVE_FILE: ~/Work/Org/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+** ✘ CANCELED 3-e integrals
+CLOSED: [2020-11-18 Wed 22:35]
+   SCHEDULED: <2016-07-01 Fri>
+** ✘ CANCELED 2e MP2 energy
+CLOSED: [2020-11-18 Wed 22:35]
+   SCHEDULED: <2016-07-15 Fri>
+
+* ✔ DONE Impact of vibrational wavefunction on low low energy electron scattering [4/4]
+CLOSED: [2020-11-18 Wed 22:36]
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-22 Sun 16:33
+:ARCHIVE_FILE: ~/Work/Org/Research.org
+:ARCHIVE_CATEGORY: Research
+:ARCHIVE_TODO: DONE
+:END:
+** ✔ DONE 修改稿件 <2017-01-27 Fri>
+SCHEDULED: <2017-01-05 Thu>
+** ✔ DONE submit to JPB <2017-01-27 Fri 09:54>
+** ✔ DONE submit to CPB <2017-02-07 Tue 20:05>
+** ✔ DONE 接到CPB的返修通知 <2017-04-08 Sat 09:00>
+
+* ✔ DONE e-NO_2 R-matrix scattering
+CLOSED: [2020-11-18 Wed 22:35] SCHEDULED: <2017-05-01 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-22 Sun 16:33
+:ARCHIVE_FILE: ~/Work/Org/Research.org
+:ARCHIVE_CATEGORY: Research
+:ARCHIVE_TODO: ✔ DONE
+:END:
+** ✔ DONE 重复 Gupta 和 Munjal 等人的计算结果
+** ✔ DONE 优化 NO2结构
+** ✔ DONE 进行 R-matrix SE 计算
+** ✔ DONE 进行 R-matrix CC 计算
+** ✔ DONE 分析基组和靶电子态数目对散射结果的影响
+** ✔ DONE 撰写《物理学报》论文
+SCHEDULED: <2017-05-08 Mon>
+** ✔ DONE 投《物理学报》审稿 <2017-05-21 Sun 12:36>
+CLOSED: [2020-11-18 Wed 22:36]
+
+* ✔ DONE R-matrix学习 [4/4]
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-22 Sun 16:33
+:ARCHIVE_FILE: ~/Work/Org/Research.org
+:ARCHIVE_CATEGORY: Research
+:ARCHIVE_TODO: ✔ DONE
+:END:
+** ✔ DONE 在RCAC上安装Quantemol-N <2017-03-06 Mon 11:38>
+** ✔ DONE 在RCAC上测试Quantemol-N和后台运行 <2017-03-06 Mon 15:00-16:00>
+** ✔ DONE Print Quantemol-N paper <2017-03-27 Mon 09:30>
+** ✔ DONE Study Kedong Wang's some papers
+SCHEDULED: <2017-03-05 Sun>
+- [X] "Low-energy electron scattering from cyanamide" PRA, 94, 032703 [3/3]
+  - [X] Gaussian 优化 NH2-CN 结构
+  - [X] Quantemol-N做SE散射
+  - [X] Quantemol-N做CC散射
+
+* ✔ DONE 项目结题
+CLOSED: [2020-11-22 Sun 17:02]
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-11-22 Sun 16:33
+:ARCHIVE_FILE: ~/Work/Org/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+** ✔ DONE 教育厅高校创新团队
+CLOSED: [2020-11-18 Wed 22:36]
+*** 撰写结题报告和结题表 <2017-05-20 Sat 10:00-12:00>
+
+* ✘ CANL [#C] 测试成都超算中心集群
+CLOSED: [2020-12-19 Sat 14:28] DEADLINE: <2020-12-15 Tue 17:00> SCHEDULED: <2020-11-22 Sun 15:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2020-12-08 Tue 11:11
+:ARCHIVE_FILE: ~/Work/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+
+* Archived Tasks
+
+** Bound
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-05 Sat 11:17
+:ARCHIVE_FILE: ~/Work/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** GAMESS
+**** DONE compile 2013 version
+<2021-01-15 Fri 18:00-21:00>
+**** DONE download 2020 version and compile/test
+<2021-01-16 Sat 13:00-15:00>
+
+*** CFOUR
+**** DONE git/compile 2019 version
+<2021-01-16 Sat 12:00> <2021-01-17 Sun 14:00> <2021-01-18 Mon 09:00-11:30>
+<2021-01-20 Wed 09:00-16:00>
+**** DONE compile parallel version
+<2021-01-22 Fri 20:00>-<2021-01-24 Sun 20:27>
+Mac Intel compiler could NOT support openmpi/mpich2 correctly.
+
+*** ORCA
+**** DONE download and install 4.2.1 version
+<2021-01-17 Sun 10:30-11:30>
+
+** Scatt
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-03-05 Sat 11:17
+:ARCHIVE_FILE: ~/Work/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** BFsca 
+**** DONE compile and test
+<2021-01-16 Sat 16:12>
+
+** DCM
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-07-12 Tue 09:59
+:ARCHIVE_FILE: ~/Work/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** prepare
+**** Reddis 数据库
+**** 多进程
+**** 预测算法
+***** ✔ DONE 用mathematica测试火车站人脸识别
+CLOSED: [2022-03-11 Fri 16:41]
+ 只能识别没有被遮挡的脸。
+***** ✔ DONE study DCM density foresee algorithm
+CLOSED: [2022-04-18 Mon 10:05] SCHEDULED: <2022-03-28 Mon>
+****** mathematica
+****** python
+****** AI
+
+*** DCM box
+launch DCM box project
+SCHEDULED: <2022-04-26 Tue>
+**** Dynamic Current Forecast algorithm
+***** study
+- [ ] Forecasting: theory and practice
+***** ✔ DONE DCF direct forecast (DF)
+CLOSED: [2022-04-30 Sat 21:33] SCHEDULED: <2022-04-18 Mon>
+- [X] LSTM
+- [X] GRU-LSTM
+- [X] Fourier Trigonometric Function Fit
+***** ✘ CANL DCF decompose-synthesize-forecast (DSF)
+CLOSED: [2022-12-31 Sat 10:49] SCHEDULED: <2022-04-18 Mon>
+****** 信号分解
+- [X] STL
+- [X] MSTL
+- [ ] UCM
+****** 分部预测
+****** 综合预测
+
+** YOLOV5
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-08-19 Fri 09:21
+:ARCHIVE_FILE: ~/Work/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** ✔ DONE update SAFER slave yolov5
+CLOSED: [2022-08-09 Tue 20:02]
+*** ✔ DONE call yolov5 model
+CLOSED: [2022-08-19 Fri 09:21] SCHEDULED: <2022-07-20 Wed>
+- [X] yolov5 识别照片
+*** yolov5 GPU
+*** pytorch GPU
+
+** ROS
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-31 Sat 10:48
+:ARCHIVE_FILE: ~/Work/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** 研究计划
+**** 安装ROS2 - foxy [5/5]
++ [X] apt on Ubuntu
++ [X] conda on Ubuntu
++ [X] conda on Mac
++ [X] pip+src on Ubuntu
++ [X] pip+src on Mac
++ [ ] conda+src on Ubuntu
++ [ ] conda+src on Mac
+**** 安装ROS1 - noetic [4/4]
++ [X] apt on Ubuntu
++ [X] conda on Ubuntu
++ [X] conda on Mac
++ [X] pip+src on Mac
++ [ ] pip+src on Ubuntu
++ [ ] conda+src on Ubuntu
++ [ ] conda+src on Mac
+**** 安装ROS1-2 bridge [0/2]
+- [ ] on Mac
+- [ ] on Ubuntu
+**** 学会操作松龄机器人1号 [0/2]
+- [ ] 完全重复出厂设置
+- [ ] 尝试改变一点功能
+**** 用ROS2替代松龄1号 [0/2]
+- [ ] 采用ROS bridge方案
+- [ ] 完全用ROS2替代
+**** 在松龄1号上添加新的设备 [0/0]
+**** 将松龄1号加入云平台操作 [0/2]
+- [ ] openTCS
+- [ ] 其他云平台方案
+
+*** compile
+**** apt
+***** ✔ DONE foxy on Linux
+CLOSED: [2021-12-10 Fri 10:00]
+***** ✔ DONE noetic on Linux
+CLOSED: [2021-12-11 Sat 12:00]
+**** conda
+***** ✔ DONE noetic/galactic on Linux/Mac
+CLOSED: [2022-04-08 Fri 16:53] SCHEDULED: <2022-04-07 Thu>
+**** pip+src
+***** ✔ DONE foxy on mac
+CLOSED: [2022-03-22 Tue 17:40]
+***** ✔ DONE foxy on Linux
+CLOSED: [2022-04-05 Tue 18:47] SCHEDULED: <2022-04-04 Mon>
+***** ✔ DONE noetic on mac [2/2]
+CLOSED: [2022-04-02 Sat 22:45] SCHEDULED: <2022-01-24 Mon>
+****** ✔ DONE log4cxx
+CLOSED: [2022-03-05 Sat 11:28]
+****** ✘ CANL catkin_make_isolated could NOT find catkin
+CLOSED: [2022-12-31 Sat 10:48] SCHEDULED: <2022-03-06 Sun>
+***** ✘ CANL noetic on Linux
+CLOSED: [2022-12-31 Sat 10:48] SCHEDULED: <2022-03-05 Sat>
+**** conda+src
+***** ✔ DONE create conda environment instead of pip
+CLOSED: [2022-04-05 Tue 18:50] SCHEDULED: <2022-04-04 Mon>
+- pip cannot install sip/qt5 with specific version
+***** ✘ CANL src/conda on mac/foxy
+CLOSED: [2022-12-31 Sat 10:48] SCHEDULED: <2022-04-05 Tue>
+*** run
+*** general
+**** ✔ DONE 制定ROS研究计划
+CLOSED: [2022-03-12 Sat 10:32] SCHEDULED: <2022-03-12 Sat>
+**** ✔ DONE 研究CMAKE的include path选择顺序
+CLOSED: [2022-03-22 Tue 17:42]
+
+** paddlepaddle
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-01 Sat 10:46
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_OLPATH: AI
+:ARCHIVE_CATEGORY: Research
+:END:
+
+** Fast Deploy
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-01 Sat 10:46
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_OLPATH: AI
+:ARCHIVE_CATEGORY: Research
+:END:
+<2023-02-03 Fri>:  暂时放弃 Fast Deploy
+*** ✘ CANL 部署
+CLOSED: [2023-02-03 Fri 17:10] SCHEDULED: <2022-12-31 Sat>
+- State "✘ CANL"     from "⚔ INPR"     [2023-02-03 Fri 17:10] \\
+*** ✘ CANL 调用
+CLOSED: [2023-02-03 Fri 17:12]
+- State "✘ CANL"     from "☟ NEXT"     [2023-02-03 Fri 17:12]
+
+** Forecast
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-01 Sat 10:46
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_OLPATH: AI
+:ARCHIVE_CATEGORY: Research
+:END:
+
+** 家用养老健康检测
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-04-01 Sat 10:46
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** 调研
+**** 调研市场
+**** 了解关键技术
+*** 硬件
+**** IoT
+**** 视频采集
+*** 软件
+**** paddle 平台
+**** Fast Deploy
+
+** 枫谷物智平台
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-07 Fri 14:07
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** ✔ DONE 平台架构
+CLOSED: [2023-04-16 Sun 16:19]
+- python environment
+- repositories
+- source
+- tool
+*** 平台功能
+**** [[https://github.com/WassimTenachi/PhySO][Physical Symbolic Optimization]]
+*** 平台特色
+*** 平台应用
+
+** GPT+Wolfram
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-07 Fri 14:07
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** ref
+- [X] [[https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/#thanks][What is chatGPT doing ... and WHy does it work?]]
+- [X] [[https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/][Wolfram|Alpha as the Way to Bring COmputational Knowledge Superpowers to ChatGPT]]
+
+*** GPT模型
+- AutoGPT
+- chatGPT
+- miniGPT
+
+*** How to Choose GPT model
+- chatGPT 效果最好
+- 今后可尝试自建 LLM
+
+*** GPT 调用 Wolfram Alpha
+- [X] python 代码调用 chatGPT+Alpha Cloud
+- [X] 直接调用本地 Alpha
+- [X] python 代码调用 chatGPT+本地 Alpha
+  - langchain
+
+
+*** 如何自动结合 GPT+Wolfram/Physics
+**** ✔ DONE [[https://liaokong.gitbook.io/llm-kai-fa-jiao-cheng/][LangChain 中文教程]]
+CLOSED: [2023-06-07 Wed 16:27]
+
+** 大规模语言模型
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-07 Fri 14:07
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:END:
+*** ✔ DONE LLM 评价
+CLOSED: [2023-06-07 Wed 15:33]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2211.09110v1.pdf][Holistic Evaluation of Language Models]]
+
+*** ✔ DONE [[https://www.bilibili.com/video/BV13M4y1e7cN][ChatGLM+LangChain]]
+CLOSED: [2023-06-20 Tue 10:09] SCHEDULED: <2023-06-06 Tue>
+
+** 物理在金融科技上的应用
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-09 Sun 10:19
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_OLPATH: 物理算法的应用
+:ARCHIVE_CATEGORY: Research
+:END:
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/Nature_Rev_Phy_2021_490.pdf][The Physics of Financial Networks]]
+
+** ✔ DONE Build LLM from Scratch
+CLOSED: [2023-12-01 Fri 09:30] SCHEDULED: <2023-10-28 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-01 Fri 09:31
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Research.org
+:ARCHIVE_OLPATH: LLM
+:ARCHIVE_CATEGORY: Research
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+** ✔ DONE 目前的问题 (6)
+CLOSED: [2025-07-13 Sun 18:38] SCHEDULED: <2025-05-13 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-13 Sun 18:39
+:ARCHIVE_FILE: ~/Work/GTD/Research.org
+:ARCHIVE_CATEGORY: Research
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+*** AI
+**** 知识图谱
+***** 如何产生多尺度知识图谱
+**** 心理咨询
+***** 如何引导来访者
+
+*** 后端
+**** 智能中台
+***** 如何构建中台
+***** 中台的API调用
+   
+*** 前端
+**** 微信小程序
+***** 语音
+**** APP
+***** 不同的声音

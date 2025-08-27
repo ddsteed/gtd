@@ -1,0 +1,263 @@
+* READING non-books
+:PROPERTIES:
+:COOKIE_DATA: recursive
+:END:
+** LLM [0/4]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2508.05668v1.pdf][A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges]]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2507.13334v2.pdf][A Survey of Context Engineering for Large Language Models]]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2504.07128v1.pdf][DeepSeek-R1 Thoughtology]]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/The Llama 3 Herd of Models.pdf][The Llama 3 Herd of Models]]
+
+** Code [0/1]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2407.16741v3.pdf][OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS]]
+
+** Misc [4/4]
+  * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][How to make use of Associations]]                 
+  * [X] [[https://community.wolfram.com/groups/-/m/t/1167544][A primer on Association and Dataset]]
+  * [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2410.08821v2.pdf][DeepNote: Note-Centric Deep Retrieval-Augmented Generation]]
+  * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][Welcome to the Era of Experience]]
+
+** AGI [1/1]
+ * [X] [[https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e][通往 AGI 之路]]
+
+** RAG [3/6]
+  * [X] [[https://docs.dify.ai/zh-hans/introduction][Dify 学习]]
+  * [X] [[https://zhuanlan.zhihu.com/p/1924537214358001643][dify简介]]
+  * [X] [[https://zhuanlan.zhihu.com/p/25771359587][dify 超快速构建AI agent]]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2408.08921v2.pdf][Graph Retrieval-Augmented Generation: A Survey]]
+  * [ ] [[https://ragflow.io/docs/dev/][RagFlow Docs]]
+  * [ ] [[https://ragflow.io/blog][RagFlow Blog]]
+  * [ ] [[https://waytoagi.feishu.cn/wiki/CT3UwDM8OiVmOOkohPbcV3JCndb][万字长文带你使用Coze打造企业级知识库]]
+
+** Agent [1/6]
+  * [X] [[https://github.com/humanlayer/12-factor-agents/tree/main?tab=readme-ov-file][12-factor-agents]]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2507.07957v1.pdf][MIRIX: Multi-Agent Memory System for LLM-Based Agents]]
+  * [ ] [[/Users/fengh/work/home1/feng/REFERENCES/PDF/arXiv.2504.19678v1.pdf][From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review]]
+  * [ ] [[/Users/fengh/work/home1/feng/REFERENCES/PDF/arXiv.2503.21460v1.pdf][Large Language Model Agent: A Survey on Methodology, Applications and Challenges]]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2503.12434v1.pdf][A Survey on the Optimization of Large Language Model-based Agents]]
+  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2401.03568v2.pdf][AGENT AI：SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION]]
+
+* READING books [0/6]
+:PROPERTIES:
+:COOKIE_DATA: recursive
+:END:
+
+** Professional [0/2]
+*** ⚔ INPR [[/Users/RDS Library/Pascal Bornet/Agentic Artificial Intelligence (5279)/Agentic Artificial Intelligence - Pascal Bornet.epub][Agentic Artificial Intelligence]]            
+SCHEDULED: <2025-07-28 Mon>
+by Pascal Bornet & Jochen Wirtz &  Thomas H. Davenport & David De Cremer &  Brian Evergreen &  Phil Fersht &  Rakesh Gohel & Shail Khiyara & Nandan Mullakara & Pooja Sund 
+*** ⚔ INPR [[/Users/RDS Library/Addy Osmani/Vibe Coding_ The Future of Programming (5405)/Vibe Coding_ The Future of Programming - Addy Osmani.epub][Vibe Coding: The Future of Programming]]
+SCHEDULED: <2025-08-17 Sun>
+by Addy Osmani
+*** [[/Users/RDS Library/Tom Taulli/AI-Assisted Programming (5411)/AI-Assisted Programming - Tom Taulli.pdf][AI-Assisted Programming]]
+by Tom Taulli
+*** [[/Users/RDS Library/Harrell Howard/The Vibe Coding Playbook_ Your Guide to AI-Powered Programming (5412)/The Vibe Coding Playbook_ Your Guide to AI - Harrell Howard.epub][The Vibe Coding Playbook: Your Guide to AI-Powered Programming]]
+by Harrell Howard
+*** [[/Users/RDS Library/John K. Ousterhout/A Philosophy of Software Design, 2nd Edition (4218)/A Philosophy of Software Design, 2nd Editi - John K. Ousterhout.epub][A philosophy of software design]]              
+by John K. Ousterhout
+*** [[/Users/RDS Library/Chip Huyen/AI Engineering (5106)/AI Engineering - Chip Huyen.pdf][AI Engineering]]                              
+by Chip Huyen
+*** [[/Users/RDS Library/Anjanava Biswas/Building Agentic AI Systems Create intelligent, autonomous AI agents that can reason, plan, and (5275)/Building Agentic AI Systems Create intelli - Anjanava Biswas.pdf][Building Agentic AI Systems: Create intelligent, autonomous AI agents that can reason, plan, and adapt]] 
+by Anjanava Biswas & Wrick Talukdar
+*** [[https://d2l.ai/chapter_introduction/index.html][Dive into Deep Learning]]                          
+by Aston Zhang & Zachary C. Lipton & Mu Li & Alexander J. Smola
+
+** Non-Professional [0/4]
+*** ⚔ INPR 百年孤独                                            :literature:
+SCHEDULED: <2025-02-27 Thu>
+by 加西亚·马尔克斯
+*** ⚔ INPR 论语三百讲                                          :philosophy:
+SCHEDULED: <2025-06-26 Thu>
+by 傅佩荣
+*** ⚔ INPR [[/Users/RDS Library/吴翰清/计算 (5304)/计算 - 吴翰清.pdf][计算]]
+SCHEDULED: <2025-08-26 Tue>
+by 吴翰清
+*** [[/Users/RDS Library/Mortimer J. Adler/How to Read a Book_ The Classic Guide to Intelligent Reading (5295)/How to Read a Book_ The Classic Guide to I - Mortimer J. Adler.epub][How to Read a Book]]
+by Mortimer J. Adler & Charles van Doren
+*** ⚔ INPR [[/Users/RDS Library/Tiago Forte/Building a Second Brain_ A Proven Method to Organize Your Digital Life and Unlock Your Creative (2835)/Building a Second Brain_ A Proven Method t - Tiago Forte.epub][Building a Second Brain]]
+SCHEDULED: <2025-08-26 Tue>
+by Tiago Forte
+*** [[/Users/RDS Library/Fiona McPherson/Effective Notetaking (5294)/Effective Notetaking - Fiona McPherson.epub][Effective Notetaking]]
+by Fiona McPherson
+*** [[/Users/RDS Library/Sönke Ahrens/How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking (2120)/How to Take Smart Notes. One Simple Techni - Sönke Ahrens.epub][How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking]]
+by Sönke Ahrens
+*** [[/Users/RDS Library/Geoff Woods/The AI-Driven Leader_ Harnessing AI to Make Faster, Smarter Decisions (5286)/The AI-Driven Leader_ Harnessing AI to Mak - Geoff Woods.epub][The AI-Driven Leader: Harnessing AI to Make Faster, Smarter Decisions]]
+by Geoff Woods
+*** [[/Users/RDS Library/Shane Parrish/Clear Thinking_ Turning Ordinary Moments into Extraordinary Results (5303)/Clear Thinking_ Turning Ordinary Moments i - Shane Parrish.epub][Clear Thinking: Turning Ordinary Moments into Extraordinary Results]]
+by Shane Parrish
+*** [[/Users/RDS Library/Steve Yegge/程序员的呐喊 (5284)/程序员的呐喊 - Steve Yegge.pdf][程序员的呐喊]]                                               :technology:
+by Steve Yegge
+*** 效率为王                                                     :business:
+by 卫哲
+*** 米塞斯的经济学课                                            :economics:
+by 路德维希·冯·米塞斯
+*** A Brief History of Intelligence                            :technology:
+by Max Bennett
+*** 人类新史： 一次改写人类命运的尝试                            :history:
+by 大卫·格雷伯 & 大卫·温格罗
+*** [[/Users/RDS Library/Jerry H. Bentley/Traditions & Encounters_ A Global Perspectiveon the Past (2158)/Traditions & Encounters_ A Global Perspect - Jerry H. Bentley.pdf][Traditions & Encounters: A Global Perspectiveon the Past]]      :history:
+by Jerry H. Bentley & Herbert F. Ziegler & Heather E. Streets-Salter & Craig Benjamin
+*** [[/Users/fengh/Documents/RDS/EDITED/Paul_Graham_Essays/epub/PGE.epub][Paul Graham Essay]]                                         :technology:
+by Paul Graham
+*** The Model Thinker                                         :technology:
+by Scott E. Page
+*** Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False :philosophy:
+by Thomas Nagel
+*** The Cold Start Problem                                    :technology:
+by Andrew Chen
+*** 心理学                                                     :psychology:
+by 丹尼尔·夏克特
+*** Exploring Social Psychology                               :psychology:
+by David Myers & Jean M. Twenge
+*** The Worlds I See                                           :biography:
+by Feifei Li
+*** The Model Thinker                                     :social:science:
+by Scott E. Page
+*** Becoming a Technical Leader                                 :business:
+by Gerald M. Weinberg
+*** An Introduction to General Systems Thinking               :technology:
+by Gerald M. Weinberg
+*** Genius Makers                                              :biography:
+by Cade Metz
+*** How Big Things Get Done                                   :technology:
+by Bent Flyvbjerg & Dan Gardner
+*** The Story Paradox                                      :SocialScience:
+by Jonathan Gottschall
+*** Beyond Entrepreneurship                                     :business:
+by Jim Collins & Bill Lazier
+
+* CANCELED BOOKS [2/2]
+*** ✘ CANL [[/Users/RDS Library/吴军/逻辑学通识讲义 (5263)/逻辑学通识讲义 - 吴军.pdf][逻辑学通识讲义]] :PopularScience:  CANL:
+CLOSED: [2025-08-01 Fri 15:15]
+  吴军讲的也没有多少新意，实在是不值得浪费一本书来讲逻辑。
+by 吴军
+*** ✘ CANL [[/Users/RDS Library/Tiago Forte/The PARA Method_ Simplify, Organize, and Master Your Digital Life (5291)/The PARA Method_ Simplify, Organize, and M - Tiago Forte.epub][The PARA Method: Simplify, Organize, and Master Your Digital Life]] :  CANL:
+CLOSED: [2025-08-12 Tue 13:29]
+by Tiago Forte
+
+* READ BOOKS [39/39]
+:PROPERTIES:
+:COOKIE_DATA: recursive
+:END:
+
+** Professional [15/15]
+*** ✔ DONE [[/Users/RDS Library/Mohamed M. Hammad/Neural Network and Deep Learning with Mathematica (4587)/Neural Network and Deep Learning with Math - Mohamed M. Hammad.pdf][Neural Network and Deep Learning with Mathematica]]  :technology:
+CLOSED: [2025-01-10 Fri 21:13] SCHEDULED: <2024-12-16 Mon>
+by Mohamed M. Hammad
+*** ✔ DONE [[/Users/RDS Library/Mohamed M. Hammad/Artificial Neural Network and Deep Learning_ Fundamentals and Theory (4544)/Artificial Neural Network and Deep Learnin - Mohamed M. Hammad.pdf][Artificial Neural Network and Deep Learning: Fundamentals and Theory]] :technology:
+CLOSED: [2025-01-15 Wed 11:37] SCHEDULED: <2025-01-10 Fri>
+by Mohamed M. Hammad
+*** ✔ DONE [[/Users/RDS Library/Sebastian Raschka/Build a Large Language Model (From Scratch) (4559)/Build a Large Language Model (From Scratch - Sebastian Raschka.epub][Build a Large Language Model (From Scratch)]]  （二刷） :techonology:
+CLOSED: [2025-02-18 Tue 14:52] SCHEDULED: <2025-01-29 Wed>
+by Sebastian Raschka
+*** ✔ DONE [[/Users/fengh/Documents/STUDY/AI/Wolfram/Bernard-MachineLearning-NotebookEdition/ML-05-how-it-works.nb][Introduction to Machine Learning]]    （二刷）       :technology:
+CLOSED: [2025-03-11 Tue 14:14] SCHEDULED: <2025-02-20 Thu>
+by Etienne Berbard
+*** ✔ DONE [[http://neuralnetworksanddeeplearning.com/index.html][Neural Networks and Deep Learning]]    （二刷）      :technology:
+CLOSED: [2025-04-06 Sun 22:26] SCHEDULED: <2025-04-03 Thu>
+*by Michael Nielsen  
+*** ✔ DONE [[https://reference.wolfram.com/language/tutorial/NeuralNetworksOverview.html][Neural Networks in the Wolfram Language]]   (三刷)   :technology:
+CLOSED: [2025-04-08 Tue 15:25] SCHEDULED: <2025-03-11 Tue>
+by Wolfram Documentation Center
+*** ✔ DONE [[/Users/RDS Library/Ian Goodfellow/Deep Learning (1949)/Deep Learning - Ian Goodfellow.pdf][Deep Learning]]                                      :technology:
+CLOSED: [2025-04-13 Sun 21:41] SCHEDULED: <2025-04-08 Tue>
+by Ian Goodfellow & Yoshua Bengio & Aaron Courville
+*** ✔ DONE [[/Users/fengh/Documents/STUDY/WOLFRAM/Query/Query-01-introduction.nb][Query: Getting Information from Data with the Wolfram Language]]  （二刷） :technology:
+CLOSED: [2025-04-22 Tue 11:48] SCHEDULED: <2025-04-15 Tue>
+by Seth J. Chandler
+*** ✔ DONE [[/Users/RDS Library/José Guillermo Sánchez León/Mathematica Beyond Mathematics_ The Wolfram Language in the Real World (2754)/Mathematica Beyond Mathematics_ The Wolfra - José Guillermo Sánchez León.pdf][Mathematica Beyond Mathematics: The Wolfram Language in the Real World]] :technology:
+CLOSED: [2025-05-07 Wed 20:20] SCHEDULED: <2025-05-04 Sun>
+by José Guillermo Sánchez León
+*** ✔ DONE [[/Users/RDS Library/Jalil Villalobos Alva/Beginning Mathematica and Wolfram for Data Science_ Applications in Data Analysis, Machine Lear (4187)/Beginning Mathematica and Wolfram for Data - Jalil Villalobos Alva.pdf][Beginning Mathematica and Wolfram for Data Science: Applications in Data Analysis, Machine Learning, and Neural Networks]] :technology:
+CLOSED: [2025-05-15 Thu 10:18] SCHEDULED: <2025-05-07 Wed>
+by Jalil Villalobos Alva
+*** ✔ DONE [[/Users/RDS Library/漆远/AI X Science 十大前沿观察 (5111)/AI X Science 十大前沿观察 - 漆远.pdf][AI X Science 十大前沿观察]] :technology:
+CLOSED: [2025-05-15 Thu 13:51] SCHEDULED: <2025-05-08 Thu>
+by 漆远 & 吴力波 & 张 江
+*** ✔ DONE [[https://huyenchip.com/ml-interviews-book/][Machine Learning Interviews]] :technology:
+CLOSED: [2025-05-28 Wed 21:54] SCHEDULED: <2025-05-15 Thu>
+by Chip Huyen
+*** ✔ DONE [[https://book.emacs-china.org/#org593aa3c][21 天学会 Emacs]] :technology:
+CLOSED: [2025-05-28 Wed 21:56] SCHEDULED: <2025-05-27 Tue>
+by  zilongshanren 
+*** ✔ DONE [[/Users/RDS Library/Robert J. Chassell/Programming in Emacs Lisp (3890)/Programming in Emacs Lisp - Robert J. Chassell.epub][Programming in Emacs Lisp]] :technology:
+CLOSED: [2025-07-17 Thu 13:58] SCHEDULED: <2025-07-07 Mon>
+by Robert J. Chassell
+*** ✔ DONE [[/Users/RDS Library/Tony Narlock/The Tao of tmux and Terminal Tricks (5305)/The Tao of tmux and Terminal Tricks - Tony Narlock.pdf][The Tao of Tmux]]
+CLOSED: [2025-08-12 Tue 17:10] SCHEDULED: <2025-08-02 Sat>
+- State "✔ DONE"     from "⚔ INPR"     [2025-08-12 Tue 17:10]
+by Tony Narlock
+
+** Non-Professional [24/24]
+*** ✔ DONE AI 未来进行式                                     :techonology:
+CLOSED: [2025-01-02 Thu 09:12] SCHEDULED: <2024-12-29 Sun>
+by 陈楸帆 & 李开复
+*** ✔ DONE AI·未来                                            :technology:
+CLOSED: [2025-01-05 Sun 19:49]
+by 李开复
+*** ✔ DONE 重启世界：ChatGPT 之父山姆·奥特曼传                 :biography:
+CLOSED: [2025-01-20 Mon 08:34] SCHEDULED: <2025-01-10 Fri>
+by 苏自由
+*** ✔ DONE 小米创业思考                                         :business:
+CLOSED: [2025-01-26 Sun 08:47] SCHEDULED: <2025-01-20 Mon>
+by 雷军 & 徐洁云
+*** ✔ DONE 万物皆计算：科学奇才的探索之旅                     :technology:
+CLOSED: [2025-02-10 Mon 10:33] SCHEDULED: <2025-02-01 Sat>
+by 斯蒂芬·沃尔弗拉姆
+*** ✔ DONE 一个村庄里的中国                               :social:science:
+CLOSED: [2025-02-16 Sun 16:33] SCHEDULED: <2025-02-10 Mon>
+by 熊培云
+*** ✔ DONE 法律的悖论                                                :law:
+CLOSED: [2025-02-18 Tue 08:26] SCHEDULED: <2025-01-27 Mon>
+by 罗翔
+*** ✔ DONE 双缝实验和量子力学：一个简单的光学实验如何串起不确定的量子世界与确定的经典世界 :popular:science:
+CLOSED: [2025-02-23 Sun 14:40] SCHEDULED: <2025-02-18 Tue>
+by 阿尼尔·阿南塔斯瓦米
+*** ✔ DONE 胡适杂忆                                            :biography:
+CLOSED: [2025-03-06 Thu 09:26] SCHEDULED: <2025-01-05 Sun>
+by 唐德刚
+*** ✔ DONE 智慧的疆界：从图灵机到人工智能                :popular:science:
+CLOSED: [2025-03-15 Sat 19:22] SCHEDULED: <2025-03-09 Sun>
+by 周志明
+*** ✔ DONE 胜算：用概率思维提高胜算                            :statistic:
+CLOSED: [2025-03-22 Sat 10:53] SCHEDULED: <2025-03-20 Thu>
+by 刘润
+*** ✔ DONE 了不起的基因
+CLOSED: [2025-04-09 Wed 20:19] SCHEDULED: <2025-03-24 Mon>
+by 尹烨
+*** ✔ DONE 重新发现社会                                   :social:science:
+CLOSED: [2025-04-18 Fri 18:27] SCHEDULED: <2025-04-09 Wed>
+by 熊培云
+*** ✔ DONE 历史深处的民国                                        :history:
+SCHEDULED: <2025-04-15 Tue>
+by 江城
+*** ✔ DONE 我看金庸小说 I                                          :novel:
+CLOSED: [2025-05-19 Mon 16:44] SCHEDULED: <2025-05-11 Sun>
+by 倪匡
+*** ✔ DONE 有本事                                         :social:science:
+CLOSED: [2025-05-25 Sun 08:34] SCHEDULED: <2025-05-20 Tue>
+by 冯唐
+*** ✔ DONE 君子之道                                           :literature:
+CLOSED: [2025-05-30 Fri 21:04] SCHEDULED: <2025-05-27 Tue>
+by 余秋雨
+*** ✔ DONE 我看金庸小说 II                                         :novel:
+CLOSED: [2025-06-01 Sun 11:48] SCHEDULED: <2025-05-19 Mon>
+by 倪匡
+*** ✔ DONE 智人之上：从石器时代到 AI 时代的信息网络简史    :SocialScience:
+CLOSED: [2025-06-11 Wed 13:05] SCHEDULED: <2025-06-01 Sun>
+by 尤瓦尔·赫拉利
+*** ✔ DONE 控制论与科学方法论                                 :technology:
+CLOSED: [2025-06-28 Sat 19:03] SCHEDULED: <2025-06-12 Thu>
+by 金观涛 & 华国凡
+*** ✔ DONE 上游思维                                        :SocialScience:
+CLOSED: [2025-07-02 Wed 21:27] SCHEDULED: <2025-06-28 Sat>
+by 丹·希思
+*** ✔ DONE 英伟达之道                                            :business:
+CLOSED: [2025-07-31 Thu 21:17] SCHEDULED: <2025-07-03 Thu>
+by 金泰
+*** ✔ DONE [[/Users/RDS Library/David Kadavy/Digital Zettelkasten_ Principles, Methods, & Examples (5292)/Digital Zettelkasten_ Principles, Methods, - David Kadavy.epub][Digital Zettelkasten: Principles, Methods, & Examples]]
+CLOSED: [2025-08-11 Mon 08:53] SCHEDULED: <2025-07-30 Wed>
+by David Kadavy
+*** ✔ DONE [[/Users/RDS Library/Sönke Ahrens/How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking (2120)/How to Take Smart Notes. One Simple Techni - Sönke Ahrens.epub][How to Take Smart Notes]]
+CLOSED: [2025-08-22 Fri 10:51] SCHEDULED: <2025-08-12 Tue>
+by Sönke Ahrens

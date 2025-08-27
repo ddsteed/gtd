@@ -1,0 +1,183 @@
+
+Archived entries from file /Users/fengh/Work/GTD/Study.org
+
+
+* Archived Tasks
+
+** PYTHON
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-20 Sun 20:10
+:ARCHIVE_FILE: ~/Work/GTD/Study.org
+:ARCHIVE_CATEGORY: Study
+:END:
+*** Reading Python
+- [ ] [[/Users/RDS Library/Real Python/Python Basics_ A Practical Introduction to Python 3 (2054)/Python Basics_ A Practical Introduction to - Real Python.pdf][Python Basics]]
+- [ ] [[/Users/RDS Library/Dan Bader/Python Tricks_ The Book (3355)/Python Tricks_ The Book - Dan Bader.pdf][Python Tricks]]
+
+** AI
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-20 Sun 20:10
+:ARCHIVE_FILE: ~/Work/GTD/Study.org
+:ARCHIVE_CATEGORY: Study
+:END:
+*** Pattern Recognition
+**** Face Recognition
+
+*** Deep Learning
+**** ✔ DONE Reading DP
+CLOSED: [2024-02-09 Fri 22:31] SCHEDULED: <2023-12-11 Mon>
+- [X] [[/Users/RDS Library/Long Long/PyTorchShen Du Xue Xi (1933)/PyTorchShen Du Xue Xi - Long Long.pdf][PyTorch深度学习]]
+- [X] [[https://d2l.ai/chapter_preliminaries/probability.html][Dive into Deep Learning]]
+- [X] [[/Users/RDS Library/Jeremy Howard/Deep Learning for Coders with fastai and PyTorch_ AI Applications Without a PhD (1994)/Deep Learning for Coders with fastai and P - Jeremy Howard.pdf][Deep Learning for Coders with fastai & PyTorch]]
+- [X] [[/Users/RDS Library/Daniel Voigt Godoy/Deep Learning with PyTorch Step-by-Step_ A Beginner's Guide (2091)/Deep Learning with PyTorch Step-by-Step_ A - Daniel Voigt Godoy.pdf][Deep Learning with PyTorch: step-by-step]]
+- [X] [[/Users/RDS Library/Eli Stevens/Deep Learning with PyTorch (1736)/Deep Learning with PyTorch - Eli Stevens.pdf][Deep Learning with Pytorch]]
+- [X] [[http://neuralnetworksanddeeplearning.com/chap4.html][Neural Networks and Deep Learning]]
+- [X] [[/Users/RDS Library/Lee Hung-yi/Deep Learning Tutorial (755)/Deep Learning Tutorial - Lee Hung-yi.pdf][Deep Learning Tutorial (Hung-yi Lee)]]
+- [X] [[/Users/RDS Library/Ian Pointer/Programming PyTorch for Deep Learning Creating & Deploying Deep Learning Applications (3362)/Programming PyTorch for Deep Learning Crea - Ian Pointer.pdf][Programming PyTorch for Deep Learning]]
+- [X] [[/Users/RDS Library/Ivan Vasilev/Advanced Deep Learning & Python Design & implement advanced next-generation AI solutions using (3360)/Advanced Deep Learning & Python Design & i - Ivan Vasilev.pdf][Advanced Deep Learning with Python]]
+- [X] [[/Users/RDS Library/Sebastian Raschka/Machine Learning with PyTorch and Scikit-Learn (1726)/Machine Learning with PyTorch and Scikit-L - Sebastian Raschka.pdf][Machine Learning with PyTorch and Sciket-Learn]]
+  
+*** Knowledge Graph
+**** ✔ DONE KG Basic
+CLOSED: [2024-07-11 Thu 14:25] SCHEDULED: <2023-12-26 Tue>
+***** Read Done KG [8/8]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2312.06185.pdf][KnowGPT: Black-Box Knowledge Injection for LLM]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2312.05934v1.pdf][Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2202.12571.pdf][NeuralKG: An Open Source Library]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2003.02320v6.pdf][Knowledge Graphs]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2211.03536v2.pdf][Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces]]
+- [X] [[/Users/RDS Library/Jesus Barrasa/Building Knowledge Graphs (3566)/Building Knowledge Graphs - Jesus Barrasa.pdf][Building Knowledge Graphs]]
+- [X] [[/Users/RDS Library/Jesus Barrasa/Knowledge Graphs (3586)/Knowledge Graphs - Jesus Barrasa.pdf][Knowledge Graphs]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/TGDK.1.1.2.pdf][Large Language Models and Knowledge Graphs: Opportunities and Challenges]]
+  
+*** LLM
+**** LLM Basic Concepts
+***** Study LLM's principle
+****** ✔ DONE Reading LLM [17/17]
+CLOSED: [2024-04-07 Sun 11:35] SCHEDULED: <2023-07-07 Fri>
+- [X] [[https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021][All you need to know about ‘Attention’ and ‘Transformers’]]
+- [X] [[https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-2-bf2403804ada][All you need to know about ‘Attention’ and ‘Transformers’ 2]]
+- [X] [[/Users/RDS Library/Sinan Ozdemir/Quick Start Guide to Large Language Models_ Strategies and Best Practices for using ChatGPT and (3001)/Quick Start Guide to Large Language Models - Sinan Ozdemir.epub][Quick Start Guide to LLM]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv_1706.03762.pdf][Attention Is All You Need]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2307.06435.pdf][A Comprehensive Overview of Large Language Models]]
+- [X] [[/Users/RDS Library/Valentina Alto/Modern Generative AI & ChatGPT & OpenAI Models Leverage the capabilities of OpenAI's LLM for pr (3006)/Modern Generative AI & ChatGPT & OpenAI Mo - Valentina Alto.pdf][Modern Generative AI & ChatGPT & OpenAI Models Leverage the capabilities of OpenAI's LLM for productivity & innovation & GPT3 & GPT4]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2309.05519.pdf][Next-GPT: Any-to-Any Multimodal LLM]]
+- [X] [[https://www.8btc.com/article/6831302][当前大语言模型LLM研究的10大挑战]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2303.18223.pdf][A Survey of Large Language Models]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2307.10169.pdf][Challenges and Applications of Large Language Models]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2302.07842.pdf][Augmented Language Models: a Survey]]
+- [X] [[/Users/fengh/work/home1/feng/REFERENCES/PDF/arXiv.2307.05782.pdf][Large Language Models]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2304.03442.pdf][Generative Agents: Interactive Simulacra of Human Behavior]]
+- [X] [[https://sspai.com/post/85740][成为 ChatGPT 全域调教高手]]
+- [X] [[/Users/RDS Library/Valentina Alto/Modern Generative AI & ChatGPT & OpenAI Models Leverage the capabilities of OpenAI's LLM for pr (3260)/Modern Generative AI & ChatGPT & OpenAI Mo - Valentina Alto.pdf][Modern Generative AI & ChatGPT & OpenAI Models Leverage the capabilities of OpenAI's LLM for productivity & innovation & GPT3 & GPT4]]
+- [X] [[/Users/RDS Library/Stephen Wolfram/What Is ChatGPT Doing _. and Why Does It Work_ (2722)/What Is ChatGPT Doing _. and Why Does It W - Stephen Wolfram.pdf][What is ChatGPT and Why does it Work?]]
+- [X] [[https://magazine.sebastianraschka.com/p/understanding-large-language-models][Understanding Large Language Models]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2303.08774.pdf][GPT-4 Technical Report]]
+  
+***** Instruct LLM [0/5]
+- [ ] [[https://sh-tsang.medium.com/brief-review-self-instruct-aligning-language-models-with-self-generated-instructions-aade44dbc0f6#:~:text=SELF%2DINSTRUCT%20is%20a%20pipeline,LM%20to%20follow%20instructions%20better.][Brief Review — SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions]]
+- [ ] [[https://medium.com/mlearning-ai/self-instruct-the-low-cost-llm-alignment-process-7be1bf2a126a][SELF-INSTRUCT, the Low-cost LLM Alignment Process]]
+- [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2203.02155.pdf][Training language models to follow instructions with human feedback]]
+- [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2212.10560.pdf][SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions]]
+- [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2301.00234.pdf][A Survey on In-context Learning]]
+
+***** Utilization of LLM [0/2]
+- [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2308.08155.pdf][AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation]]
+- [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/Thesis/JDB_UCLA_2023.pdf][Applications of LLM in Education: Literature Reivew and Case Study]]
+  
+**** ✔ DONE MLLM (Multimodal Large Language Model) [4/4]
+CLOSED: [2024-03-02 Sun 11:32] SCHEDULED: <2023-11-29 Wed>
+- [X] [[https://zhuanlan.zhihu.com/p/642435940][速懂多模态大语言模型]]
+- [X] [[https://www.zing-ai.com/166/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8C%BA%E5%88%AB/][大语言模型和多模态模型的区别]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2306.13549.pdf][A Survey on Multimodal Large language Models]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2306.13394.pdf][A Comprehensive Evaluation Benchmark for Multimodal Large Language Models]]
+  
+**** ✔ DONE Build LLM from Scratch
+CLOSED: [2024-04-07 Sun 17:04] SCHEDULED: <2023-10-23 Mon>
+- [X] [[https://www.linkedin.com/pulse/building-your-own-large-language-model-llm-from-guide-ramachandran][Building Your Own Large Language Model (LLM) from Scratch: A Step-by-Step Guide]]
+- [X] [[https://towardsdatascience.com/how-to-build-an-llm-from-scratch-8c477768f1f9][How to Build an LLM from Scratch]]
+- [X] [[https://www.analyticsvidhya.com/blog/2023/07/build-your-own-large-language-models/][Beginner’s Guide to Build Your Own Large Language Models from Scratch]]
+- [X] [[https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/][How to Build a Large Language Model from Scratch Using Python]]
+- [X] [[https://thomascherickal.medium.com/how-to-create-your-own-llm-model-2598615a039a][How to Create Your Local LLM Model]]
+- [X] [[https://www.leewayhertz.com/build-private-llm/][HOW TO BUILD A PRIVATE LLM?]]
+- [X] [[https://python.plainenglish.io/a-guide-to-build-your-own-large-language-models-from-scratch-533a1fd55de7][A Guide to Build Your Own Large Language Models from Scratch]]
+- [X] [[https://blog.gopenai.com/how-to-build-an-llm-from-scratch-ecb94270b4fe][How to Build an LLM from Scratch]]
+- [X] [[https://huyenchip.com/2023/04/11/llm-engineering.html][Building LLM applications for production]]
+
+  
+*** Transformers [0/5]
+- [ ] [[https://transformers.run/][Transformers快速入门]]
+- [ ] [[https://www.youtube.com/watch?v=ugWDIIOHtPA&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4&index=61][李宏毅讲解Transformer]]
+- [ ] [[https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/][Transformer models: an introduction and catalog]]
+- [ ] [[http://jalammar.github.io/illustrated-transformer/][The Illustrated Transformer]]
+- [ ] [[/Users/RDS Library/Denis Rothman/Transformers for Natural Language Processing Build, train & fine-tune deep neural network archi (3363)/Transformers for Natural Language Processi - Denis Rothman.pdf][Transformers for NLP]]
+
+*** Prompt Engineering [0/5]
+- [ ] [[https://www.promptingguide.ai/zh][提示词工程指南]]
+- [ ] [[https://cloud.tencent.com/developer/article/2296211][RAG——使用检索增强生成构建特定行业的大型语言模型]]
+- [ ] [[https://www.zhihu.com/zvideo/1668995540959473664][RAG实战：检索增强生成技术解决大语言模型幻觉问题]]
+- [ ] [[https://www.luxiangdong.com/2023/09/01/ragvsft/#/抑制幻觉有多重要][RAG和微调哪个是LLM优化的最优解]]
+- [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2104.08691.pdf][The Power of Sacle for Parameter-Efficient Prompt Tuning]]
+
+  
+*** NLP
+- [ ] [[https://huggingface.co/learn/nlp-course/zh-CN/chapter0/1?fw=pt][NLP Course]]
+
+*** Additional Tools
+**** Embeddings
+- [ ] [[https://simonwillison.net/2023/Oct/23/embeddings/][Embeddings: What they are and why they matter]]
+
+**** Fine-tuning
+
+*** PaLM 2
+**** Introduction [1/1]
+- [X] [[https://blog.google/technology/ai/google-palm-2-ai-large-language-model/][Introducing PaLM 2]]
+
+** LLM + Tools
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-20 Sun 20:10
+:ARCHIVE_FILE: ~/Work/GTD/Study.org
+:ARCHIVE_CATEGORY: Study
+:END:
+*** LLM + PyTorch
+**** How to implement LLM with PyTorch [0/3]
+- [ ] [[/Users/RDS Library/Long Long/PyTorchShen Du Xue Xi (1933)/PyTorchShen Du Xue Xi - Long Long.pdf][PyTorch深度学习]]
+- [ ] [[/Users/RDS Library/Ashish Ranjan Jha/Mastering PyTorch (3005)/Mastering PyTorch - Ashish Ranjan Jha.pdf][Mastering PyTorch]]
+
+*** LLM + Vision
+- [ ] [[/Users/RDS Library/Emily Webber/Pretrain Vision and Large Language Models in Python (2999)/Pretrain Vision and Large Language Models - Emily Webber.epub][Pretrain Vision and LLM in Python]]
+  
+*** LLM + Wolfram
+**** study how LLM+Wolfram work
+
+*** LLM + KG
+**** ✔ DONE Basic Theory
+CLOSED: [2024-02-14 Wed 16:14] SCHEDULED: <2024-02-09 Fri>
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2306.08302.pdf][Unifying Large Language Models and Knowledge Graphs: A Roadmap]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2310.11638.pdf][Systematic Assessment of Factual Knowledge in Large Language Models]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2310.01061.pdf][REASONING ON GRAPHS: FAITHFUL AND INTER-PRETABLE LARGE LANGUAGE MODEL REASONING]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2309.01538.pdf][ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning]]
+- [X] [[https://neo4j.com/blog/unifying-llm-knowledge-graph/][Unifying LLMs & Knowledge Graphs for GenAI: Use Cases & Best Practices]]
+- [X] [[https://bratanic-tomaz.medium.com/constructing-knowledge-graphs-from-text-using-openai-functions-096a6d010c17][Constructing knowledge graphs from text using OpenAI functions]]
+- [X] [[https://www.wisecube.ai/blog/combining-large-language-models-and-knowledge-graphs/][Combining Large Language Models and Knowledge Graphs]]
+- [X] [[https://cameronrwolfe.substack.com/p/graph-based-prompting-and-reasoning][Graph-Based Prompting and Reasoning with Language Models]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2307.07697v5.pdf][Think on Graph]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2305.13168.pdf][LLms for KG Construction and Rasoning]]
+- [X] [[/Users/fengh/Documents/STUDY/LLM/Prompt4ReasoningPapers/tutorial.pdf][Reasoning with LLM Prompting]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2310.05845.pdf][GraphLLM]]
+- [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/graph_toolformer.pdf][Graph-ToolFormer]]
+
+**** ✔ DONE Neo4j + GenAI
+CLOSED: [2024-02-14 Wed 16:15] SCHEDULED: <2024-02-13 Tue>
+- [X] [[https://graphacademy.neo4j.com/courses/llm-fundamentals/1-introduction/1-neo4j-and-genai/][Neo4j and Generative AI]]
+
+** 物理算法的应用
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-20 Sun 20:10
+:ARCHIVE_FILE: ~/Work/GTD/Study.org
+:ARCHIVE_CATEGORY: Study
+:END:
+*** Wolfram on Physics
+- [ ] [[https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/][The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics]]
+- [ ] [[https://www.wolframscience.com/metamathematics/mathematics-and-physics-have-the-same-foundations/][THE PHYSICALIZATION OF METAMATHEMATICS AND ITS IMPLICATIONS FOR THE FOUNDATIONS OF MATHEMATICS]]
+ 

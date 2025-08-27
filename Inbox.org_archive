@@ -1,0 +1,342 @@
+
+* Archived Tasks
+** ✔ DONE 政治学通识 包升刚
+CLOSED: [2022-04-06 Wed 19:35]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-04-06 Wed 19:36
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+[2022-04-06 Wed 18:07]
+
+** ✔ DONE 找书
+CLOSED: [2022-05-01 Sun 13:49]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-05-01 Sun 13:49
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+[2022-04-30 Sat 21:20]
++ 剑桥资本主义史
++ 刺猬与狐狸：专家的政治判断
+
+** ✔ DONE 找书
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-05-27 Fri 14:03
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- [X] The Annotated Turing
+
+** ✔ DONE 整理kk的名言
+CLOSED: [2022-05-27 Fri 14:02] SCHEDULED: <2022-05-14 Sat 10:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-05-27 Fri 14:03
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+** ✔ DONE 可解释人工智能导论
+CLOSED: [2022-06-03 Fri 20:35]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-04 Sat 18:17
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+[2022-06-01 Wed 07:06]
+
+** ✔ DONE 文学讲稿 纳博科夫
+CLOSED: [2022-06-04 Sat 18:17]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-04 Sat 18:17
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+[2022-06-03 Fri 20:34]
+
+** ✔ DONE 物理学和质朴性 惠勒
+CLOSED: [2022-06-14 Tue 14:48]
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-10 Fri 08:30
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ⚔ INPR
+:END:
+[2022-06-09 Thu 22:14]
+
+** ✔ DONE 整理往年的 org
+SCHEDULED: <2023-01-02 Mon 14:30-15:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-08 Tue 15:09
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Misc.org
+:ARCHIVE_OLPATH: 2023
+:ARCHIVE_CATEGORY: Misc
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+** ✔ DONE 整理 calibre library
+CLOSED: [2023-01-29 Sun 16:27] SCHEDULED: <2023-01-28 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-08 Tue 15:09
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Misc.org
+:ARCHIVE_OLPATH: 2023
+:ARCHIVE_CATEGORY: Misc
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+** ✔ DONE 设置 Emacs 的 mode-line 
+CLOSED: [2025-07-20 Sun 19:27] SCHEDULED: <2025-07-20 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-24 Thu 09:44
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+** ✘ CANL 修改 Emacs org 的外观
+CLOSED: [2025-07-23 Wed 13:53]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-24 Thu 09:44
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✘ CANL
+:END:
+- State "✘ CANL"     from "⚔ INPR"     [2025-07-23 Wed 13:53] \\
+  - org mode 似乎修改了源代码，org-bullets 不能很好地显示。研究了两天，仍然没有找到解决办法，只好暂时放弃。
+  - org-todo 是有 keywords 标准定义的，我们可以修改名字，但在 org 内部，仍然按照 todo-doing-done 方式进行处理。
+ [2025-07-21 Mon 09:16]
+
+** ✔ DONE 研究 Emcas 如何加密文件
+CLOSED: [2025-07-24 Thu 16:01] SCHEDULED: <2025-07-24 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-24 Thu 16:22
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-07-24 Thu 16:21]
+
+** ✔ DONE org mode 外观修改
+CLOSED: [2025-07-25 Fri 10:02]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-25 Fri 10:02
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from              [2025-07-25 Fri 10:02]
+ [2025-07-25 Fri 10:02]
+
+** ✔ DONE 再次学习 GTD 和 Org-mode   
+CLOSED: [2025-07-25 Fri 10:54] SCHEDULED: <2025-07-24 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-25 Fri 10:54
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+- State "✔ DONE"     from "⚔ INPR"     [2025-07-25 Fri 10:54]
+Get Things Done 是一种思维方式，org mode 只是配合完成的工具。因此，最重要的是要理解如何 GTD。参考别人的经验，把步骤和思路捋清楚。
+
+** ✔ DONE 修改 org mode 里 src block 的外观 
+CLOSED: [2025-07-25 Fri 11:37]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-25 Fri 11:38
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from              [2025-07-25 Fri 11:37]
+ [2025-07-25 Fri 11:37]
+
+** ✔ DONE 设置 iterm2
+CLOSED: [2025-07-25 Fri 21:42]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-29 Tue 14:42
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from              [2025-07-25 Fri 21:42]
+
+*** restore last panes
+重新启动 iterm2 后，自动打开关闭前的所有 tab，而且每个 tab 里的程序依然不变。这样，和 tmux 结合起来，就像没有关闭过一样。
+
+但是，系统重新启动后，打开 iterm2 就只能恢复 tab，而里面的程序就记不住了。虽然需要重新打开程序，但也好，一次工作就一次设置。
+
+** ✔ DONE 重新整理 oh-my-tmux 
+CLOSED: [2025-07-29 Tue 14:42]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-07-29 Tue 14:42
+:ARCHIVE_FILE: ~/Work/GTD/Inbox.org
+:ARCHIVE_OLPATH: Misc
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-07-29 Tue 14:42]
+ [2025-07-29 Tue 14:41]
+*** 定制 theme
+
+** ✔ DONE 设置 Emacs 里的 Python 环境 
+CLOSED: [2025-08-10 Sun 20:21]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-10 Sun 20:21
+:ARCHIVE_FILE: ~/Documents/RDS/NOTES/Org/Roam/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from              [2025-08-10 Sun 20:21]
+- jedi 的问题查找
+ [2025-08-10 Sun 20:20]
+
+** ✔ DONE 配置 cursor 
+CLOSED: [2025-08-11 Mon 14:08]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-11 Mon 14:08
+:ARCHIVE_FILE: ~/Documents/RDS/NOTES/Org/Roam/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+- 透明背景
+- vim 快捷键  [[id:74CEF371-4D2C-4197-B9D8-BF42C11B434E][连续按键]]
+- AI 辅助编程
+
+** ✔ DONE 建立 AI-platform/AIC 仓库 
+CLOSED: [2025-08-11 Mon 15:59]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-11 Mon 15:59
+:ARCHIVE_FILE: ~/Documents/RDS/NOTES/Org/Roam/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from              [2025-08-11 Mon 15:59]
+- 添加王鸿淼/孟首臣
+ [2025-08-11 Mon 15:55]
+
+** ✔ DONE 提醒刘斯去食堂结账
+CLOSED: [2025-08-12 Tue 10:51]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-12 Tue 10:51
+:ARCHIVE_FILE: ~/Documents/RDS/NOTES/Org/Roam/Inbox.org
+:ARCHIVE_OLPATH: Personal
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from              [2025-08-12 Tue 10:51]
+ [2025-08-10 Sun 19:03]
+
+** ✔ DONE 整理 FATAVAY 的旧软件仓库 
+CLOSED: [2025-08-12 Tue 10:51]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-12 Tue 10:51
+:ARCHIVE_FILE: ~/Documents/RDS/NOTES/Org/Roam/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from              [2025-08-12 Tue 10:51]
+- 移除胡庆辉/张长城
+ [2025-08-11 Mon 16:00]
+
+** ✔ DONE 测试整理 sk-back/sk-web 两个源代码库
+CLOSED: [2025-08-15 Fri 20:37] SCHEDULED: <2025-08-15 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-15 Fri 20:38
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-08-15 Fri 20:37]
+- 最小精简版
+- 安装/部署
+- 加入 github
+
+** ✔ DONE INPR 重新安装所有的homebrew apps
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-15 Fri 20:38
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+<2025-08-15 Fri 08:30>
+
+** ✔ DONE 整理 Mendeley 里的文献 
+CLOSED: [2025-08-17 Sun 19:40]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-17 Sun 19:40
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ⚔ INPR
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-08-17 Sun 19:40]
+ [2025-08-17 Sun 10:20]
+
+** ✔ DONE 在 Emacs 中设置 ZettelKasten 方法 
+CLOSED: [2025-08-24 Sun 21:58]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-24 Sun 21:58
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+** ✔ DONE 学习 OpenHands 平台 
+CLOSED: [2025-08-25 Mon 14:48]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-25 Mon 14:49
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-08-25 Mon 14:48]
+ [2025-08-22 Fri 16:38]
+
+ OpenHands 平台还不成熟，功能没有超过 Aider。而且是 docker 运行，速度非常慢。目
+  前看来还不能取代 Aider，甚至都不用补充。
+
+** ✔ DONE 学习 aider/aidermacs 
+CLOSED: [2025-08-25 Mon 14:49] SCHEDULED: <2025-08-15 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-25 Mon 14:49
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+- State "✔ DONE"     from "⚔ INPR"     [2025-08-25 Mon 14:49]
+
+** ✔ DONE 测试 lm-studio 
+CLOSED: [2025-08-26 Tue 16:19]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-08-26 Tue 16:19
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+ [2025-08-26 Tue 10:18]
+ 效果没有 ollama 好。
