@@ -1,12 +1,16 @@
+#+bibliography: ~/Documents/RDS/NOTES/Org/Roam/ref.bib
+
 * READING non-books
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
+
 ** LLM [0/4]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2508.05668v1.pdf][A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges]]
+  * [ ] [cite:@XiSurvey2025]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2507.13334v2.pdf][A Survey of Context Engineering for Large Language Models]]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2504.07128v1.pdf][DeepSeek-R1 Thoughtology]]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/The Llama 3 Herd of Models.pdf][The Llama 3 Herd of Models]]
+  * [ ] [cite:@Ph.DGPToss2025]
 
 ** Code [0/1]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2407.16741v3.pdf][OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS]]
@@ -37,17 +41,16 @@
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2503.12434v1.pdf][A Survey on the Optimization of Large Language Model-based Agents]]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2401.03568v2.pdf][AGENT AI：SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION]]
 
-* READING books [0/6]
+* READING books [0/4]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
 
-** Professional [0/2]
+** Professional [0/1]
 *** ⚔ INPR [[/Users/RDS Library/Pascal Bornet/Agentic Artificial Intelligence (5279)/Agentic Artificial Intelligence - Pascal Bornet.epub][Agentic Artificial Intelligence]]            
 SCHEDULED: <2025-07-28 Mon>
 by Pascal Bornet & Jochen Wirtz &  Thomas H. Davenport & David De Cremer &  Brian Evergreen &  Phil Fersht &  Rakesh Gohel & Shail Khiyara & Nandan Mullakara & Pooja Sund 
-*** ⚔ INPR [[/Users/RDS Library/Addy Osmani/Vibe Coding_ The Future of Programming (5405)/Vibe Coding_ The Future of Programming - Addy Osmani.epub][Vibe Coding: The Future of Programming]]
-SCHEDULED: <2025-08-17 Sun>
+*** [[/Users/RDS Library/Addy Osmani/Vibe Coding_ The Future of Programming (5405)/Vibe Coding_ The Future of Programming - Addy Osmani.epub][Vibe Coding: The Future of Programming]]
 by Addy Osmani
 *** [[/Users/RDS Library/Tom Taulli/AI-Assisted Programming (5411)/AI-Assisted Programming - Tom Taulli.pdf][AI-Assisted Programming]]
 by Tom Taulli
@@ -62,25 +65,26 @@ by Anjanava Biswas & Wrick Talukdar
 *** [[https://d2l.ai/chapter_introduction/index.html][Dive into Deep Learning]]                          
 by Aston Zhang & Zachary C. Lipton & Mu Li & Alexander J. Smola
 
-** Non-Professional [0/4]
+** Non-Professional [0/3]
 *** ⚔ INPR 百年孤独                                            :literature:
 SCHEDULED: <2025-02-27 Thu>
 by 加西亚·马尔克斯
-*** ⚔ INPR 论语三百讲                                          :philosophy:
+*** ⚔ INPR [[/Users/RDS Library/傅佩荣/论语三百讲（上篇） (5204)/论语三百讲（上篇） - 傅佩荣.epub][论语三百讲（上）]] 
 SCHEDULED: <2025-06-26 Thu>
 by 傅佩荣
 *** ⚔ INPR [[/Users/RDS Library/吴翰清/计算 (5304)/计算 - 吴翰清.pdf][计算]]
 SCHEDULED: <2025-08-26 Tue>
 by 吴翰清
+*** [[/Users/RDS Library/凯德·梅茨/深度学习革命 (4631)/深度学习革命 - 凯德·梅茨.epub][深度学习革命]]
+by 凯德·梅茨
+*** [[/Users/RDS Library/奈杰尔·沃伯顿/世界运行的逻辑 (5354)/世界运行的逻辑 - 奈杰尔·沃伯顿.epub][世界运行的逻辑]]
+by 奈杰尔·沃伯顿
 *** [[/Users/RDS Library/Mortimer J. Adler/How to Read a Book_ The Classic Guide to Intelligent Reading (5295)/How to Read a Book_ The Classic Guide to I - Mortimer J. Adler.epub][How to Read a Book]]
 by Mortimer J. Adler & Charles van Doren
-*** ⚔ INPR [[/Users/RDS Library/Tiago Forte/Building a Second Brain_ A Proven Method to Organize Your Digital Life and Unlock Your Creative (2835)/Building a Second Brain_ A Proven Method t - Tiago Forte.epub][Building a Second Brain]]
-SCHEDULED: <2025-08-26 Tue>
+*** [[/Users/RDS Library/Tiago Forte/Building a Second Brain_ A Proven Method to Organize Your Digital Life and Unlock Your Creative (2835)/Building a Second Brain_ A Proven Method t - Tiago Forte.epub][Building a Second Brain]]
 by Tiago Forte
 *** [[/Users/RDS Library/Fiona McPherson/Effective Notetaking (5294)/Effective Notetaking - Fiona McPherson.epub][Effective Notetaking]]
 by Fiona McPherson
-*** [[/Users/RDS Library/Sönke Ahrens/How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking (2120)/How to Take Smart Notes. One Simple Techni - Sönke Ahrens.epub][How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking]]
-by Sönke Ahrens
 *** [[/Users/RDS Library/Geoff Woods/The AI-Driven Leader_ Harnessing AI to Make Faster, Smarter Decisions (5286)/The AI-Driven Leader_ Harnessing AI to Mak - Geoff Woods.epub][The AI-Driven Leader: Harnessing AI to Make Faster, Smarter Decisions]]
 by Geoff Woods
 *** [[/Users/RDS Library/Shane Parrish/Clear Thinking_ Turning Ordinary Moments into Extraordinary Results (5303)/Clear Thinking_ Turning Ordinary Moments i - Shane Parrish.epub][Clear Thinking: Turning Ordinary Moments into Extraordinary Results]]

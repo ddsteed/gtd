@@ -1,15 +1,18 @@
-#+#+STARTUP: content showstars indent
-#+#+OPTIONS: tex:t
+#+OPTIONS: tex:t
 
 * Personal [0/0]
 
-* Tasks [0/1]
+* Tasks [0/2]
 
-** ⚔ INPR 学习 CogniSphere 平台
-SCHEDULED: <2025-08-26 Tue>
-- [X] 重复示例
-- [ ] 研究 light-rag
-- [ ] 融入 AI-platform
+** ⚔ INPR 研究 light-rag
+SCHEDULED: <2025-08-28 Thu>
 
-*** 问题
-- 解析文档速度很慢
+** ⚔ INPR 学习 zread 平台 
+ [2025-08-28 Thu 11:46]
+
+** ⚔ INPR 学习 deepwiki 平台 
+:PROPERTIES:
+:NOTER_DOCUMENT: Inbox.org
+:END:
+ [2025-08-28 Thu 11:46]
+ 
