@@ -7,10 +7,11 @@
 
 ** LLM [0/4]
   * [ ] [cite:@XiSurvey2025]
+  * [ ] [cite:@Ph.DGPToss2025]
+  * [ ] [cite:@KalaiWhy2025]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2507.13334v2.pdf][A Survey of Context Engineering for Large Language Models]]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2504.07128v1.pdf][DeepSeek-R1 Thoughtology]]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/The Llama 3 Herd of Models.pdf][The Llama 3 Herd of Models]]
-  * [ ] [cite:@Ph.DGPToss2025]
 
 ** Code [0/1]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2407.16741v3.pdf][OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS]]
@@ -41,7 +42,7 @@
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2503.12434v1.pdf][A Survey on the Optimization of Large Language Model-based Agents]]
   * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2401.03568v2.pdf][AGENT AI：SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION]]
 
-* READING books [0/4]
+* READING books [0/5]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
@@ -52,10 +53,14 @@ SCHEDULED: <2025-07-28 Mon>
 by Pascal Bornet & Jochen Wirtz &  Thomas H. Davenport & David De Cremer &  Brian Evergreen &  Phil Fersht &  Rakesh Gohel & Shail Khiyara & Nandan Mullakara & Pooja Sund 
 *** [[/Users/RDS Library/Addy Osmani/Vibe Coding_ The Future of Programming (5405)/Vibe Coding_ The Future of Programming - Addy Osmani.epub][Vibe Coding: The Future of Programming]]
 by Addy Osmani
+*** [[/Users/RDS Library/Addy Osmani/Beyond Vibe Coding (5821)/Beyond Vibe Coding - Addy Osmani.pdf][Beyond Vibe Coding]]
+by Addy Osmani
 *** [[/Users/RDS Library/Tom Taulli/AI-Assisted Programming (5411)/AI-Assisted Programming - Tom Taulli.pdf][AI-Assisted Programming]]
 by Tom Taulli
 *** [[/Users/RDS Library/Harrell Howard/The Vibe Coding Playbook_ Your Guide to AI-Powered Programming (5412)/The Vibe Coding Playbook_ Your Guide to AI - Harrell Howard.epub][The Vibe Coding Playbook: Your Guide to AI-Powered Programming]]
 by Harrell Howard
+*** [[/Users/RDS Library/Tariq Rashid/Python神经网络编程 (5289)/Python神经网络编程 - Tariq Rashid.pdf][Python 神经网络编程]]
+by Tariq Rashid
 *** [[/Users/RDS Library/John K. Ousterhout/A Philosophy of Software Design, 2nd Edition (4218)/A Philosophy of Software Design, 2nd Editi - John K. Ousterhout.epub][A philosophy of software design]]              
 by John K. Ousterhout
 *** [[/Users/RDS Library/Chip Huyen/AI Engineering (5106)/AI Engineering - Chip Huyen.pdf][AI Engineering]]                              
@@ -65,8 +70,8 @@ by Anjanava Biswas & Wrick Talukdar
 *** [[https://d2l.ai/chapter_introduction/index.html][Dive into Deep Learning]]                          
 by Aston Zhang & Zachary C. Lipton & Mu Li & Alexander J. Smola
 
-** Non-Professional [0/3]
-*** ⚔ INPR 百年孤独                                            :literature:
+** Non-Professional [0/4]
+*** ⚔ INPR [[/Users/RDS Library/加西亚•马尔克斯/百年孤独 (5731)/百年孤独 - 加西亚•马尔克斯.epub][百年孤独]]
 SCHEDULED: <2025-02-27 Thu>
 by 加西亚·马尔克斯
 *** ⚔ INPR [[/Users/RDS Library/傅佩荣/论语三百讲（上篇） (5204)/论语三百讲（上篇） - 傅佩荣.epub][论语三百讲（上）]] 
@@ -75,14 +80,19 @@ by 傅佩荣
 *** ⚔ INPR [[/Users/RDS Library/吴翰清/计算 (5304)/计算 - 吴翰清.pdf][计算]]
 SCHEDULED: <2025-08-26 Tue>
 by 吴翰清
+*** ⚔ INPR [[/Users/RDS Library/Tiago Forte/Building a Second Brain_ A Proven Method to Organize Your Digital Life and Unlock Your Creative (2835)/Building a Second Brain_ A Proven Method t - Tiago Forte.epub][Building a Second Brain]]
+SCHEDULED: <2025-09-11 Thu>
+by Tiago Forte
+*** [[/Users/RDS Library/穆尔·伊诺克·斯通普夫/西方哲学史 (5929)/西方哲学史 - 穆尔·伊诺克·斯通普夫.epub][西方哲学史]]
+by 穆尔·伊诺克·斯通普夫 & 詹姆斯·菲泽
+*** [[/Users/RDS Library/刘擎/西方现代思想讲义 (5931)/西方现代思想讲义 - 刘擎.epub][西方现代思想讲义]]
+by 刘擎
 *** [[/Users/RDS Library/凯德·梅茨/深度学习革命 (4631)/深度学习革命 - 凯德·梅茨.epub][深度学习革命]]
 by 凯德·梅茨
 *** [[/Users/RDS Library/奈杰尔·沃伯顿/世界运行的逻辑 (5354)/世界运行的逻辑 - 奈杰尔·沃伯顿.epub][世界运行的逻辑]]
 by 奈杰尔·沃伯顿
 *** [[/Users/RDS Library/Mortimer J. Adler/How to Read a Book_ The Classic Guide to Intelligent Reading (5295)/How to Read a Book_ The Classic Guide to I - Mortimer J. Adler.epub][How to Read a Book]]
 by Mortimer J. Adler & Charles van Doren
-*** [[/Users/RDS Library/Tiago Forte/Building a Second Brain_ A Proven Method to Organize Your Digital Life and Unlock Your Creative (2835)/Building a Second Brain_ A Proven Method t - Tiago Forte.epub][Building a Second Brain]]
-by Tiago Forte
 *** [[/Users/RDS Library/Fiona McPherson/Effective Notetaking (5294)/Effective Notetaking - Fiona McPherson.epub][Effective Notetaking]]
 by Fiona McPherson
 *** [[/Users/RDS Library/Geoff Woods/The AI-Driven Leader_ Harnessing AI to Make Faster, Smarter Decisions (5286)/The AI-Driven Leader_ Harnessing AI to Mak - Geoff Woods.epub][The AI-Driven Leader: Harnessing AI to Make Faster, Smarter Decisions]]
