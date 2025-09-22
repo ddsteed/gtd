@@ -6,21 +6,17 @@
 :END:
 
 ** LLM [0/4]
-  * [ ] [cite:@XiSurvey2025]
-  * [ ] [cite:@Ph.DGPToss2025]
-  * [ ] [cite:@KalaiWhy2025]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2507.13334v2.pdf][A Survey of Context Engineering for Large Language Models]]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2504.07128v1.pdf][DeepSeek-R1 Thoughtology]]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/The Llama 3 Herd of Models.pdf][The Llama 3 Herd of Models]]
-
-** Code [0/1]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2407.16741v3.pdf][OPENHANDS: AN OPEN PLATFORM FOR AI SOFTWARE DEVELOPERS AS GENERALIST AGENTS]]
+ * [ ] [cite:@XiSurvey2025] Xi, Lin & Xiao et al. (2025) A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, arXiv.
+ * [ ] [cite:@Ph.DGPToss2025] Ph.D (2025) GPT-oss from the Ground Up, Deep (Learning) Focus.
+ * [ ] [cite:@KalaiWhy2025] Kalai, Nachum & Vempala et al. (2025) Why Language Models Hallucinate, .
+ * [ ] [cite:@MeiSurvey2025] Mei, Yao & Ge et al. (2025) A Survey of Context Engineering for Large Language Models, arXiv.
+ * [ ] [cite:@MarjanovicDeepSeekR12025] Marjanović, Patel & Adlakha et al. (2025) DeepSeek-R1 Thoughtology: Let’s Think about LLM Reasoning, arXiv.
 
 ** Misc [4/4]
-  * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][How to make use of Associations]]                 
-  * [X] [[https://community.wolfram.com/groups/-/m/t/1167544][A primer on Association and Dataset]]
-  * [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2410.08821v2.pdf][DeepNote: Note-Centric Deep Retrieval-Augmented Generation]]
-  * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][Welcome to the Era of Experience]]
+ * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][How to make use of Associations]]                 
+ * [X] [[https://community.wolfram.com/groups/-/m/t/1167544][A primer on Association and Dataset]]
+ * [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2410.08821v2.pdf][DeepNote: Note-Centric Deep Retrieval-Augmented Generation]]
+ * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][Welcome to the Era of Experience]]
 
 ** AGI [1/1]
  * [X] [[https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e][通往 AGI 之路]]
@@ -29,20 +25,18 @@
   * [X] [[https://docs.dify.ai/zh-hans/introduction][Dify 学习]]
   * [X] [[https://zhuanlan.zhihu.com/p/1924537214358001643][dify简介]]
   * [X] [[https://zhuanlan.zhihu.com/p/25771359587][dify 超快速构建AI agent]]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2408.08921v2.pdf][Graph Retrieval-Augmented Generation: A Survey]]
-  * [ ] [[https://ragflow.io/docs/dev/][RagFlow Docs]]
-  * [ ] [[https://ragflow.io/blog][RagFlow Blog]]
-  * [ ] [[https://waytoagi.feishu.cn/wiki/CT3UwDM8OiVmOOkohPbcV3JCndb][万字长文带你使用Coze打造企业级知识库]]
+  * [ ] [cite:@PengGraph2024] Peng, Zhu & Liu et al. (2024) Graph Retrieval-Augmented Generation: A Survey, arXiv.
+  * [ ] [cite:@DaShengWanZiChangWenDaiNiShiYongCozeDaZaoQiYeJiZhiShiKu] 大圣 () 万字长文带你使用 Coze 打造企业级知识库, .
 
 ** Agent [1/6]
   * [X] [[https://github.com/humanlayer/12-factor-agents/tree/main?tab=readme-ov-file][12-factor-agents]]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2507.07957v1.pdf][MIRIX: Multi-Agent Memory System for LLM-Based Agents]]
-  * [ ] [[/Users/fengh/work/home1/feng/REFERENCES/PDF/arXiv.2504.19678v1.pdf][From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review]]
-  * [ ] [[/Users/fengh/work/home1/feng/REFERENCES/PDF/arXiv.2503.21460v1.pdf][Large Language Model Agent: A Survey on Methodology, Applications and Challenges]]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2503.12434v1.pdf][A Survey on the Optimization of Large Language Model-based Agents]]
-  * [ ] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2401.03568v2.pdf][AGENT AI：SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION]]
+  * [ ] [cite:@WangMIRIX2025] Wang & Chen (2025) MIRIX: Multi-Agent Memory System for LLM-Based Agents, arXiv.
+  * [ ] [cite:@FerragLLM2025] Ferrag, Tihanyi & Debbah (2025) From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review, arXiv.
+  * [ ] [cite:@LuoLarge2025] Luo, Zhang & Yuan et al. (2025) Large Language Model Agent: A Survey on Methodology, Applications and Challenges, arXiv.
+  * [ ] [cite:@DuSurvey2025] Du, Zhao & Shi et al. (2025) A Survey on the Optimization of Large Language Model-based Agents, arXiv.
+  * [ ] [cite:@DuranteAgent2024] Durante, Huang & Wake et al. (2024) Agent AI: Surveying the Horizons of Multimodal Interaction, arXiv.
 
-* READING books [0/5]
+* READING books [0/6]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
@@ -51,6 +45,8 @@
 *** ⚔ INPR [[/Users/RDS Library/Pascal Bornet/Agentic Artificial Intelligence (5279)/Agentic Artificial Intelligence - Pascal Bornet.epub][Agentic Artificial Intelligence]]            
 SCHEDULED: <2025-07-28 Mon>
 by Pascal Bornet & Jochen Wirtz &  Thomas H. Davenport & David De Cremer &  Brian Evergreen &  Phil Fersht &  Rakesh Gohel & Shail Khiyara & Nandan Mullakara & Pooja Sund 
+*** [[/Users/RDS Library/俞甲子/程序员的自我修养：链接、装载与库 (6066)/程序员的自我修养：链接、装载与库 - 俞甲子.epub][程序员的自我修养：链接、装载与库]]
+by 俞甲子 & 石凡 & 潘爱民
 *** [[/Users/RDS Library/Addy Osmani/Vibe Coding_ The Future of Programming (5405)/Vibe Coding_ The Future of Programming - Addy Osmani.epub][Vibe Coding: The Future of Programming]]
 by Addy Osmani
 *** [[/Users/RDS Library/Addy Osmani/Beyond Vibe Coding (5821)/Beyond Vibe Coding - Addy Osmani.pdf][Beyond Vibe Coding]]
@@ -70,24 +66,27 @@ by Anjanava Biswas & Wrick Talukdar
 *** [[https://d2l.ai/chapter_introduction/index.html][Dive into Deep Learning]]                          
 by Aston Zhang & Zachary C. Lipton & Mu Li & Alexander J. Smola
 
-** Non-Professional [0/4]
+** Non-Professional [0/5]
 *** ⚔ INPR [[/Users/RDS Library/加西亚•马尔克斯/百年孤独 (5731)/百年孤独 - 加西亚•马尔克斯.epub][百年孤独]]
 SCHEDULED: <2025-02-27 Thu>
 by 加西亚·马尔克斯
 *** ⚔ INPR [[/Users/RDS Library/傅佩荣/论语三百讲（上篇） (5204)/论语三百讲（上篇） - 傅佩荣.epub][论语三百讲（上）]] 
 SCHEDULED: <2025-06-26 Thu>
 by 傅佩荣
-*** ⚔ INPR [[/Users/RDS Library/吴翰清/计算 (5304)/计算 - 吴翰清.pdf][计算]]
-SCHEDULED: <2025-08-26 Tue>
-by 吴翰清
+*** ⚔ INPR [[/Users/RDS Library/李·斯莫林/量子力学的真相 (3658)/量子力学的真相 - 李·斯莫林.epub][量子力学的真相]]
+SCHEDULED: <2025-09-22 Mon>
+by 李·斯莫林
 *** ⚔ INPR [[/Users/RDS Library/Tiago Forte/Building a Second Brain_ A Proven Method to Organize Your Digital Life and Unlock Your Creative (2835)/Building a Second Brain_ A Proven Method t - Tiago Forte.epub][Building a Second Brain]]
-SCHEDULED: <2025-09-11 Thu>
+SCHEDULED: <2025-09-22 Mon>
 by Tiago Forte
+*** [[/Users/RDS Library/戴维·迈尔斯/社会心理学 (6150)/社会心理学 - 戴维·迈尔斯.epub][社会心理学]]
+by 戴维·迈尔斯
 *** [[/Users/RDS Library/穆尔·伊诺克·斯通普夫/西方哲学史 (5929)/西方哲学史 - 穆尔·伊诺克·斯通普夫.epub][西方哲学史]]
 by 穆尔·伊诺克·斯通普夫 & 詹姆斯·菲泽
 *** [[/Users/RDS Library/刘擎/西方现代思想讲义 (5931)/西方现代思想讲义 - 刘擎.epub][西方现代思想讲义]]
 by 刘擎
-*** [[/Users/RDS Library/凯德·梅茨/深度学习革命 (4631)/深度学习革命 - 凯德·梅茨.epub][深度学习革命]]
+*** ⚔ INPR [[/Users/RDS Library/凯德·梅茨/深度学习革命 (4631)/深度学习革命 - 凯德·梅茨.epub][深度学习革命]]
+SCHEDULED: <2025-09-22 Mon>
 by 凯德·梅茨
 *** [[/Users/RDS Library/奈杰尔·沃伯顿/世界运行的逻辑 (5354)/世界运行的逻辑 - 奈杰尔·沃伯顿.epub][世界运行的逻辑]]
 by 奈杰尔·沃伯顿
@@ -149,7 +148,7 @@ by 吴军
 CLOSED: [2025-08-12 Tue 13:29]
 by Tiago Forte
 
-* READ BOOKS [39/39]
+* READ BOOKS [40/40]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
@@ -202,7 +201,7 @@ CLOSED: [2025-08-12 Tue 17:10] SCHEDULED: <2025-08-02 Sat>
 - State "✔ DONE"     from "⚔ INPR"     [2025-08-12 Tue 17:10]
 by Tony Narlock
 
-** Non-Professional [24/24]
+** Non-Professional [25/25]
 *** ✔ DONE AI 未来进行式                                     :techonology:
 CLOSED: [2025-01-02 Thu 09:12] SCHEDULED: <2024-12-29 Sun>
 by 陈楸帆 & 李开复
@@ -275,3 +274,6 @@ by David Kadavy
 *** ✔ DONE [[/Users/RDS Library/Sönke Ahrens/How to Take Smart Notes. One Simple Technique to Boost Writing, Learning and Thinking (2120)/How to Take Smart Notes. One Simple Techni - Sönke Ahrens.epub][How to Take Smart Notes]]
 CLOSED: [2025-08-22 Fri 10:51] SCHEDULED: <2025-08-12 Tue>
 by Sönke Ahrens
+*** ✔ DONE [[/Users/RDS Library/吴翰清/计算 (5304)/计算 - 吴翰清.pdf][计算]]
+CLOSED: [2025-09-22 Mon 10:18] SCHEDULED: <2025-08-26 Tue>
+by 吴翰清

@@ -1,0 +1,11 @@
+* Tasks [0/3]
+
+** ⚔ INPR 研究 lightrag 的多模态 
+SCHEDULED: <2025-09-07 Sun>
+- [[https://rag.apecloud.com][ApeRAG]]
+
+** ⚔ INPR 熟悉 [[https://localai.io/basics/getting_started/][local-AI]]
+SCHEDULED: <2025-09-11 Thu>
+
+** ⚔ INPR how to aider with lm studio 
+ [2025-09-22 Mon 10:04]

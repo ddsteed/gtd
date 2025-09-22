@@ -31,7 +31,7 @@ CLOSED: [2022-05-01 Sun 13:49]
 :END:
 - [X] The Annotated Turing
 
-** ✔ DONE 整理kk的名言
+** ✔ DONE 整理 kk 的名言
 CLOSED: [2022-05-27 Fri 14:02] SCHEDULED: <2022-05-14 Sat 10:00>
 :PROPERTIES:
 :ARCHIVE_TIME: 2022-05-27 Fri 14:03
@@ -270,7 +270,7 @@ CLOSED: [2025-08-15 Fri 20:37] SCHEDULED: <2025-08-15 Fri>
 - 安装/部署
 - 加入 github
 
-** ✔ DONE INPR 重新安装所有的homebrew apps
+** ✔ DONE INPR 重新安装所有的 homebrew apps
 :PROPERTIES:
 :ARCHIVE_TIME: 2025-08-15 Fri 20:38
 :ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
@@ -392,3 +392,43 @@ CLOSED: [2025-09-12 Fri 21:58]
 :END:
 - State "✔ DONE"     from "⚔ INPR"     [2025-09-12 Fri 21:58]
  [2025-09-12 Fri 20:47]
+
+** ✔ DONE 学习 magit
+CLOSED: [2025-09-15 Mon 08:59]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-15 Mon 08:59
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-09-15 Mon 08:59]
+ [2025-09-11 Thu 21:56]
+
+- [X] [[https://www.youtube.com/watch?v=_zfvQkJsYwI&list=WL&index=1][An Introduction to the Ultimate Git Interface, Magit!]]
+- [X] [[https://www.youtube.com/watch?v=vQO7F2Q9DwA&list=WL&index=3&t=8s][Magit Introduction and Demonstration]]
+- [X] [[https://www.youtube.com/watch?v=j-k-lkilbEs&list=WL&index=4&t=176s][It's Magit!]]
+
+** ✘ CANL 了解 GNU/Guix :  CANL:
+CLOSED: [2025-09-15 Mon 09:00]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-15 Mon 09:00
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✘ CANL
+:END:
+- State "✘ CANL"     from "⚔ INPR"     [2025-09-15 Mon 09:00] \\
+  no guix on mac
+ [2025-09-13 Sat 12:23]
+
+** ✔ DONE 安装/调试 mysql 
+CLOSED: [2025-09-16 Tue 21:39] SCHEDULED: <2025-09-15 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-16 Tue 21:39
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Inbox.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Inbox
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-09-16 Tue 21:39]

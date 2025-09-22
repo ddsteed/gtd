@@ -2,18 +2,3 @@
 
 * Personal [0/0]
 
-* Tasks
-
-** ⚔ INPR 研究 lightrag 的多模态 
-- [[https://rag.apecloud.com][ApeRAG]]
- [2025-09-07 Sun 21:06]
-
-** ⚔ INPR 熟悉 [[https://localai.io/basics/getting_started/][local-AI]]
- [2025-09-11 Thu 21:56]
-
-** ⚔ INPR 学习 magit
- [2025-09-11 Thu 21:56]
-
-- [ ] [[https://www.youtube.com/watch?v=_zfvQkJsYwI&list=WL&index=1][An Introduction to the Ultimate Git Interface, Magit!]]
-- [ ] [[https://www.youtube.com/watch?v=vQO7F2Q9DwA&list=WL&index=3&t=8s][Magit Introduction and Demonstration]]
-- [ ] [[https://www.youtube.com/watch?v=j-k-lkilbEs&list=WL&index=4&t=176s][It's Magit!]]
