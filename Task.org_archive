@@ -1,0 +1,118 @@
+
+Archived entries from file /Users/fengh/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+
+
+* Archived Tasks
+
+** ✘ CANL 熟悉 [[https://localai.io/basics/getting_started/][local-AI]] :  CANL:
+CLOSED: [2025-09-28 Sun 14:13] SCHEDULED: <2025-09-11 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-28 Sun 14:13
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✘ CANL
+:END:
+
+- State "✘ CANL"     from "⚔ INPR"     [2025-09-28 Sun 14:13] \\
+  暂时不用 local-ai
+
+** ✔ DONE how to aider with lm studio 
+CLOSED: [2025-09-28 Sun 14:13]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-09-28 Sun 14:13
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-09-28 Sun 14:13]
+ [2025-09-22 Mon 10:04]
+
+** ✔ DONE Emacs Python Mode Error
+CLOSED: [2025-10-10 Fri 22:08] SCHEDULED: <2025-09-28 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-10 Fri 22:08
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-10-10 Fri 22:08]
+- 找出哪个功能产生的报警错误 “Cannot resolve imported module”
+- 完善功能
+
+ [2025-09-23 Tue 16:58]
+
+** ✔ DONE 解决 emacs 的几个问题
+CLOSED: [2025-10-12 Sun 09:31] SCHEDULED: <2025-10-09 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-11 Sat 20:26
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ⚔ INPR
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-10-12 Sun 09:31]
+- [X] [Treemacs] Encountered error while following tag at point
+- [X] Import "xxx" could not be resolved [reportMissingImports]
+- [X] python-ts-mode CANNOT be recognized
+- [X] eglot+basedpyright+ruff work 
+  
+ [2025-10-09 Thu 09:10]
+
+** ✔ DONE 整理 emacs 打造 python IDE 的文档，写成博客 
+CLOSED: [2025-10-14 Tue 10:03] SCHEDULED: <2025-10-12 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-14 Tue 10:03
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-10-14 Tue 10:03]
+ [2025-10-12 Sun 09:30]
+
+** ✔ DONE aider+openrouter
+CLOSED: [2025-10-26 Sun 22:49]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-10-26 Sun 22:49
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- [X] emacs + aider
+- [X] openrouter 如何交费
+- [X] aider 如何调用 openrouter
+  
+ [2025-10-20 Mon 11:23]
+
+** ✔ DONE 整理 data-platform 代码 
+CLOSED: [2025-11-03 Mon 11:18]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-03 Mon 11:18
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+ [2025-10-19 Sun 17:06]
+ - 完成 toolbox 的生成
+ - 建立完整仓库
+
+** ✔ DONE 研究使用 claude code
+CLOSED: [2025-11-17 Mon 08:59]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-11-17 Mon 08:59
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+- State "✔ DONE"     from "⚔ INPR"     [2025-11-17 Mon 08:59]
+- claude code router 切换 LLM
+- emacs 如何使用 claude code
+  
+ [2025-11-14 Fri 19:26]
