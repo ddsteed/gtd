@@ -1,11 +1,17 @@
-* Tasks [0/3]
+* Tasks [0/4]
 
 ** ⚔ INPR 研究 lightrag 的多模态 
 SCHEDULED: <2025-09-07 Sun>
 - [[https://rag.apecloud.com][ApeRAG]]
 
-** ⚔ INPR 熟悉 [[https://localai.io/basics/getting_started/][local-AI]]
-SCHEDULED: <2025-09-11 Thu>
+** ⚔ INPR 改进 lightrag 解析慢的问题
+SCHEDULED: <2025-11-04 Tue>
+- 分析 lightrag 代码
+- 找到解析的功能
 
-** ⚔ INPR how to aider with lm studio 
- [2025-09-22 Mon 10:04]
+** ⚔ INPR 配置 emacs 里的 AI 编程环境
+
+ [2025-11-17 Mon 08:59]
+
+** ⚔ INPR 借鉴 vscode 配置 emacs 
+ [2025-11-21 Fri 14:18]

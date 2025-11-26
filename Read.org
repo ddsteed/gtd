@@ -5,6 +5,14 @@
 :COOKIE_DATA: recursive
 :END:
 
+** MCP [5/6]
+ * [X] [[https://zhuanlan.zhihu.com/p/29001189476][知乎：MCP (Model Context Protocol)]]
+ * [X] [[https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide][Model Context Protocol(MCP) 编程极速入门]]
+ * [X] [[https://chatmcp.run][MCP 101]]
+ * [X] [[https://mcp-docs.cn/introduction][mcp docs]]
+ * [X] [[https://learn-mcp.com][Learn MCP]]
+ * [ ] [[https://googleapis.github.io/genai-toolbox/getting-started/introduction/][genai-toolbox]] 
+
 ** LLM [0/4]
  * [ ] [cite:@XiSurvey2025] Xi, Lin & Xiao et al. (2025) A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, arXiv.
  * [ ] [cite:@Ph.DGPToss2025] Ph.D (2025) GPT-oss from the Ground Up, Deep (Learning) Focus.
@@ -21,30 +29,43 @@
 ** AGI [1/1]
  * [X] [[https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e][通往 AGI 之路]]
 
-** RAG [3/6]
+** RAG [3/5]
   * [X] [[https://docs.dify.ai/zh-hans/introduction][Dify 学习]]
   * [X] [[https://zhuanlan.zhihu.com/p/1924537214358001643][dify简介]]
   * [X] [[https://zhuanlan.zhihu.com/p/25771359587][dify 超快速构建AI agent]]
   * [ ] [cite:@PengGraph2024] Peng, Zhu & Liu et al. (2024) Graph Retrieval-Augmented Generation: A Survey, arXiv.
   * [ ] [cite:@DaShengWanZiChangWenDaiNiShiYongCozeDaZaoQiYeJiZhiShiKu] 大圣 () 万字长文带你使用 Coze 打造企业级知识库, .
+  * [ ] [cite:@GeSurvey2025] A Survey of Vibe Coding with Large Language Models
 
-** Agent [1/6]
+** Agent [1/7]
   * [X] [[https://github.com/humanlayer/12-factor-agents/tree/main?tab=readme-ov-file][12-factor-agents]]
+  * [ ] [[https://zhuanlan.zhihu.com/p/81990476437][meta prompt 优化器：Lyra v2]]
+  * [ ] [[/Users/fengh/Work/Company/FATAVAY/产品介绍/References/课程教学设计方案撰写v1-wendy.docx][课程教学设计方案撰写]]
   * [ ] [cite:@WangMIRIX2025] Wang & Chen (2025) MIRIX: Multi-Agent Memory System for LLM-Based Agents, arXiv.
   * [ ] [cite:@FerragLLM2025] Ferrag, Tihanyi & Debbah (2025) From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review, arXiv.
   * [ ] [cite:@LuoLarge2025] Luo, Zhang & Yuan et al. (2025) Large Language Model Agent: A Survey on Methodology, Applications and Challenges, arXiv.
   * [ ] [cite:@DuSurvey2025] Du, Zhao & Shi et al. (2025) A Survey on the Optimization of Large Language Model-based Agents, arXiv.
   * [ ] [cite:@DuranteAgent2024] Durante, Huang & Wake et al. (2024) Agent AI: Surveying the Horizons of Multimodal Interaction, arXiv.
 
-* READING books [0/6]
+** 可视化 [0/1]
+ * [ ] [[https://docs.getwren.ai/oss/overview/introduction?utm_source=github&utm_medium=content&utm_campaign=readme][Wren AI]]
+
+* READING books [0/12]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
 
-** Professional [0/1]
+** Professional [0/3]
 *** ⚔ INPR [[/Users/RDS Library/Pascal Bornet/Agentic Artificial Intelligence (5279)/Agentic Artificial Intelligence - Pascal Bornet.epub][Agentic Artificial Intelligence]]            
 SCHEDULED: <2025-07-28 Mon>
 by Pascal Bornet & Jochen Wirtz &  Thomas H. Davenport & David De Cremer &  Brian Evergreen &  Phil Fersht &  Rakesh Gohel & Shail Khiyara & Nandan Mullakara & Pooja Sund 
+*** ⚔ INPR [[Prompt Engineering - Lee Boonstra.pdf][Prompt Engineering]]
+by Lee Boonstra
+*** ⚔ INPR [[/Users/RDS Library/Antonio Gulli/Agentic Design Patterns_ A Hands-On Guide to Building Intelligent Systems (6558)/Agentic Design Patterns_ A Hands-On Guide - Antonio Gulli.pdf][Agentic Design Patterns A Hands-On Guide to Building Intelligent Systems]]
+SCHEDULED: <2025-10-09 Thu>
+by Antonio Gulli
+*** [[/Users/RDS Library/Afshine Amidi/Super Study Guide Transformers and Large Language Models (6243)/Super Study Guide Transformers and Large L - Afshine Amidi.pdf][Super Study Guide Transformers and Large Language Models]]
+by Afshine Amidi & Shervine Amidi
 *** [[/Users/RDS Library/俞甲子/程序员的自我修养：链接、装载与库 (6066)/程序员的自我修养：链接、装载与库 - 俞甲子.epub][程序员的自我修养：链接、装载与库]]
 by 俞甲子 & 石凡 & 潘爱民
 *** [[/Users/RDS Library/Addy Osmani/Vibe Coding_ The Future of Programming (5405)/Vibe Coding_ The Future of Programming - Addy Osmani.epub][Vibe Coding: The Future of Programming]]
@@ -66,28 +87,44 @@ by Anjanava Biswas & Wrick Talukdar
 *** [[https://d2l.ai/chapter_introduction/index.html][Dive into Deep Learning]]                          
 by Aston Zhang & Zachary C. Lipton & Mu Li & Alexander J. Smola
 
-** Non-Professional [0/5]
+** Non-Professional [0/9]
 *** ⚔ INPR [[/Users/RDS Library/加西亚•马尔克斯/百年孤独 (5731)/百年孤独 - 加西亚•马尔克斯.epub][百年孤独]]
 SCHEDULED: <2025-02-27 Thu>
 by 加西亚·马尔克斯
 *** ⚔ INPR [[/Users/RDS Library/傅佩荣/论语三百讲（上篇） (5204)/论语三百讲（上篇） - 傅佩荣.epub][论语三百讲（上）]] 
 SCHEDULED: <2025-06-26 Thu>
 by 傅佩荣
-*** ⚔ INPR [[/Users/RDS Library/李·斯莫林/量子力学的真相 (3658)/量子力学的真相 - 李·斯莫林.epub][量子力学的真相]]
-SCHEDULED: <2025-09-22 Mon>
-by 李·斯莫林
+*** ⚔ INPR [[/Users/RDS Library/刘道玉/拓荒与呐喊：一个大学校长的教改追求 (6728)/拓荒与呐喊：一个大学校长的教改追求 - 刘道玉.epub][拓荒与呐喊：一个大学校长的教改追求]]
+SCHEDULED: <2025-11-12 Wed>
+by 刘道玉
+*** ⚔ INPR [[/Users/RDS Library/陳墨/金庸小說的情愛世界 (6698)/金庸小說的情愛世界 - 陳墨.epub][金庸小说的情爱世界]]
+SCHEDULED: <2025-11-10 Mon>
+by 陈墨
+*** ⚔ INPR 二千年间
+SCHEDULED: <2025-11-09 Sun>
+by 胡绳
+*** ⚔ INPR [[/Users/RDS Library/李亚平/帝国政界往事 (6697)/帝国政界往事 - 李亚平.epub][帝国政界往事]]
+SCHEDULED: <2025-11-08 Sat>
+by 李亚平
 *** ⚔ INPR [[/Users/RDS Library/Tiago Forte/Building a Second Brain_ A Proven Method to Organize Your Digital Life and Unlock Your Creative (2835)/Building a Second Brain_ A Proven Method t - Tiago Forte.epub][Building a Second Brain]]
 SCHEDULED: <2025-09-22 Mon>
 by Tiago Forte
+*** ⚔ INPR [[/Users/RDS Library/骆玉明/骆玉明读古典小说：游金梦 (6678)/骆玉明读古典小说：游金梦 - 骆玉明.epub][游金梦]]
+SCHEDULED: <2025-10-31 Fri>
+by 骆玉明
+*** ⚔ INPR [[/Users/RDS Library/樊登/可复制的领导力：樊登的9堂商业课 (6687)/可复制的领导力：樊登的9堂商业课 - 樊登.epub][可复制的领导力]]
+SCHEDULED: <2025-11-03 Mon>
+by 樊登
+*** [[/Users/RDS Library/樊登/可复制的领导力2：樊登的7堂管理课 (6688)/可复制的领导力2：樊登的7堂管理课 - 樊登.epub][可复制的领导力2]]
+by 樊登
+*** [[/Users/RDS Library/罗杰·彭罗斯/通向实在之路——宇宙法则的完全指南 (6557)/通向实在之路——宇宙法则的完全指南 - 罗杰·彭罗斯.epub][通向实在之路——宇宙法则的完全指南]]
+by 罗杰·彭罗斯
 *** [[/Users/RDS Library/戴维·迈尔斯/社会心理学 (6150)/社会心理学 - 戴维·迈尔斯.epub][社会心理学]]
 by 戴维·迈尔斯
 *** [[/Users/RDS Library/穆尔·伊诺克·斯通普夫/西方哲学史 (5929)/西方哲学史 - 穆尔·伊诺克·斯通普夫.epub][西方哲学史]]
 by 穆尔·伊诺克·斯通普夫 & 詹姆斯·菲泽
 *** [[/Users/RDS Library/刘擎/西方现代思想讲义 (5931)/西方现代思想讲义 - 刘擎.epub][西方现代思想讲义]]
 by 刘擎
-*** ⚔ INPR [[/Users/RDS Library/凯德·梅茨/深度学习革命 (4631)/深度学习革命 - 凯德·梅茨.epub][深度学习革命]]
-SCHEDULED: <2025-09-22 Mon>
-by 凯德·梅茨
 *** [[/Users/RDS Library/奈杰尔·沃伯顿/世界运行的逻辑 (5354)/世界运行的逻辑 - 奈杰尔·沃伯顿.epub][世界运行的逻辑]]
 by 奈杰尔·沃伯顿
 *** [[/Users/RDS Library/Mortimer J. Adler/How to Read a Book_ The Classic Guide to Intelligent Reading (5295)/How to Read a Book_ The Classic Guide to I - Mortimer J. Adler.epub][How to Read a Book]]
@@ -98,8 +135,6 @@ by Fiona McPherson
 by Geoff Woods
 *** [[/Users/RDS Library/Shane Parrish/Clear Thinking_ Turning Ordinary Moments into Extraordinary Results (5303)/Clear Thinking_ Turning Ordinary Moments i - Shane Parrish.epub][Clear Thinking: Turning Ordinary Moments into Extraordinary Results]]
 by Shane Parrish
-*** [[/Users/RDS Library/Steve Yegge/程序员的呐喊 (5284)/程序员的呐喊 - Steve Yegge.pdf][程序员的呐喊]]                                               :technology:
-by Steve Yegge
 *** 效率为王                                                     :business:
 by 卫哲
 *** 米塞斯的经济学课                                            :economics:
@@ -148,7 +183,7 @@ by 吴军
 CLOSED: [2025-08-12 Tue 13:29]
 by Tiago Forte
 
-* READ BOOKS [40/40]
+* READ BOOKS [43/43]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
@@ -201,7 +236,7 @@ CLOSED: [2025-08-12 Tue 17:10] SCHEDULED: <2025-08-02 Sat>
 - State "✔ DONE"     from "⚔ INPR"     [2025-08-12 Tue 17:10]
 by Tony Narlock
 
-** Non-Professional [25/25]
+** Non-Professional [28/28]
 *** ✔ DONE AI 未来进行式                                     :techonology:
 CLOSED: [2025-01-02 Thu 09:12] SCHEDULED: <2024-12-29 Sun>
 by 陈楸帆 & 李开复
@@ -277,3 +312,13 @@ by Sönke Ahrens
 *** ✔ DONE [[/Users/RDS Library/吴翰清/计算 (5304)/计算 - 吴翰清.pdf][计算]]
 CLOSED: [2025-09-22 Mon 10:18] SCHEDULED: <2025-08-26 Tue>
 by 吴翰清
+*** ✔ DONE [[/Users/RDS Library/李·斯莫林/量子力学的真相 (3658)/量子力学的真相 - 李·斯莫林.epub][量子力学的真相]]
+CLOSED: [2025-10-08 Wed 20:26] SCHEDULED: <2025-09-22 Mon>
+by 李·斯莫林
+*** ✔ DONE [[/Users/RDS Library/凯德·梅茨/深度学习革命 (4631)/深度学习革命 - 凯德·梅茨.epub][深度学习革命]]
+CLOSED: [2025-10-19 Sun 22:41] SCHEDULED: <2025-10-08 Wed>
+by 凯德·梅茨
+*** ✔ DONE [[/Users/RDS Library/Steve Yegge/程序员的呐喊 (5284)/程序员的呐喊 - Steve Yegge.pdf][程序员的呐喊]]                                        :technology:
+CLOSED: [2025-10-30 Thu 09:05] SCHEDULED: <2025-10-07 Tue>
+by Steve Yegge
+
