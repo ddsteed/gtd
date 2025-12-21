@@ -1,17 +1,14 @@
-* Tasks [0/4]
-
-** ⚔ INPR 研究 lightrag 的多模态 
-SCHEDULED: <2025-09-07 Sun>
-- [[https://rag.apecloud.com][ApeRAG]]
+* Tasks [0/2]
 
 ** ⚔ INPR 改进 lightrag 解析慢的问题
 SCHEDULED: <2025-11-04 Tue>
 - 分析 lightrag 代码
 - 找到解析的功能
 
-** ⚔ INPR 配置 emacs 里的 AI 编程环境
-
- [2025-11-17 Mon 08:59]
-
-** ⚔ INPR 借鉴 vscode 配置 emacs 
- [2025-11-21 Fri 14:18]
+** ⚔ INPR 研究 Claude Code 和 Gemini-cli 
+ [2025-12-11 Thu 16:27]
+- [-] 配置好两个软件
+  - [X] cluade code
+  - [ ] gemini-cli 
+- [ ] 是否 Emacs 兼容
+- [ ] 能用最新的 LLM 吗？

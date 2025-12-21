@@ -116,3 +116,40 @@ CLOSED: [2025-11-17 Mon 08:59]
 - emacs 如何使用 claude code
   
  [2025-11-14 Fri 19:26]
+
+** ✔ DONE 配置 emacs 里的 AI 编程环境
+CLOSED: [2025-12-06 Sat 20:37]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-06 Sat 20:37
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+ [2025-11-17 Mon 08:59]
+
+** ✔ DONE 借鉴 vscode 配置 emacs 
+CLOSED: [2025-12-06 Sat 20:37]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-06 Sat 20:37
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✔ DONE
+:END:
+
+ [2025-11-21 Fri 14:18]
+
+** ✘ CANL 研究 lightrag 的多模态 :  CANL:
+CLOSED: [2025-12-06 Sat 20:37] SCHEDULED: <2025-09-07 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-06 Sat 20:37
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ✘ CANL
+:END:
+- State "✘ CANL"     from "⚔ INPR"     [2025-12-06 Sat 20:37]
+- [[https://rag.apecloud.com][ApeRAG]]
+
