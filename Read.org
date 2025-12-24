@@ -61,12 +61,15 @@
 :COOKIE_DATA: recursive
 :END:
 
-** Professional [0/2]
+** Professional [0/3]
 *** ⚔ INPR [[/Users/RDS Library/Pascal Bornet/Agentic Artificial Intelligence (5279)/Agentic Artificial Intelligence - Pascal Bornet.epub][Agentic Artificial Intelligence]]            
 SCHEDULED: <2025-07-28 Mon>
 by Pascal Bornet & Jochen Wirtz &  Thomas H. Davenport & David De Cremer &  Brian Evergreen &  Phil Fersht &  Rakesh Gohel & Shail Khiyara & Nandan Mullakara & Pooja Sund 
 *** ⚔ INPR [[/Users/RDS Library/Antonio Gulli/Agentic Design Patterns_ A Hands-On Guide to Building Intelligent Systems (6558)/Agentic Design Patterns_ A Hands-On Guide - Antonio Gulli.pdf][Agentic Design Patterns A Hands-On Guide to Building Intelligent Systems]]
 SCHEDULED: <2025-10-09 Thu>
+by Antonio Gulli
+*** ⚔ INPR [[/Users/RDS Library/Antonio Gulli/智能体设计模式：智能系统构建实战指南 (6853)/智能体设计模式：智能系统构建实战指南 - Antonio Gulli.pdf][智能体设计模式]]
+SCHEDULED: <2025-12-22 Mon>
 by Antonio Gulli
 *** [[/Users/RDS Library/Afshine Amidi/Super Study Guide Transformers and Large Language Models (6243)/Super Study Guide Transformers and Large L - Afshine Amidi.pdf][Super Study Guide Transformers and Large Language Models]]
 by Afshine Amidi & Shervine Amidi
@@ -91,7 +94,7 @@ by Anjanava Biswas & Wrick Talukdar
 *** [[https://d2l.ai/chapter_introduction/index.html][Dive into Deep Learning]]                          
 by Aston Zhang & Zachary C. Lipton & Mu Li & Alexander J. Smola
 
-** Non-Professional [1/12]
+** Non-Professional [1/11]
 *** ⚔ INPR [[/Users/RDS Library/加西亚•马尔克斯/百年孤独 (5731)/百年孤独 - 加西亚•马尔克斯.epub][百年孤独]]
 SCHEDULED: <2025-02-27 Thu>
 by 加西亚·马尔克斯
@@ -110,9 +113,6 @@ by 刘道玉
 *** ⚔ INPR [[/Users/RDS Library/陳墨/金庸小說的情愛世界 (6698)/金庸小說的情愛世界 - 陳墨.epub][金庸小说的情爱世界]]
 SCHEDULED: <2025-11-10 Mon>
 by 陈墨
-*** ⚔ INPR 二千年间
-SCHEDULED: <2025-11-09 Sun>
-by 胡绳
 *** ⚔ INPR [[/Users/RDS Library/李亚平/帝国政界往事 (6697)/帝国政界往事 - 李亚平.epub][帝国政界往事]]
 SCHEDULED: <2025-11-08 Sat>
 by 李亚平
@@ -193,7 +193,7 @@ by 吴军
 CLOSED: [2025-08-12 Tue 13:29]
 by Tiago Forte
 
-* READ BOOKS [46/46]
+* READ BOOKS [47/47]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
@@ -248,7 +248,7 @@ by Tony Narlock
 CLOSED: [2025-11-28 Fri 11:33]
 by Lee Boonstra
 
-** Non-Professional [30/30]
+** Non-Professional [31/31]
 *** ✔ DONE AI 未来进行式                                     :techonology:
 CLOSED: [2025-01-02 Thu 09:12] SCHEDULED: <2024-12-29 Sun>
 by 陈楸帆 & 李开复
@@ -339,4 +339,7 @@ by 意公子
 *** ✔ DONE [[/Users/RDS Library/张佳玮/浆糊梦 (5539)/浆糊梦 - 张佳玮.epub][浆糊梦]]
 CLOSED: [2025-12-21 Sun 13:49] SCHEDULED: <2025-12-12 Fri>
 by 张佳玮
+*** ✔ DONE 二千年间
+CLOSED: [2025-12-24 Wed 09:24] SCHEDULED: <2025-11-09 Sun>
+by 胡绳
 
