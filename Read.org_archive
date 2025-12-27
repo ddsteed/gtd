@@ -711,3 +711,98 @@ CLOSED: [2024-08-09 Fri 10:14] SCHEDULED: <2024-08-06 Tue>
 - State "✘ CANL"     from "⚔ INPR"     [2024-08-09 Fri 10:14]
 by Eli Stevens & Luca Antiga & Thomas Viehmann
 
+
+* Archived Tasks
+
+** MCP [6/6]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-26 Fri 13:38
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Read.org
+:ARCHIVE_OLPATH: READING non-books
+:ARCHIVE_CATEGORY: Read
+:END:
+ * [X] [[https://zhuanlan.zhihu.com/p/29001189476][知乎：MCP (Model Context Protocol)]]
+ * [X] [[https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide][Model Context Protocol(MCP) 编程极速入门]]
+ * [X] [[https://chatmcp.run][MCP 101]]
+ * [X] [[https://mcp-docs.cn/introduction][mcp docs]]
+ * [X] [[https://learn-mcp.com][Learn MCP]]
+ * [X] [[https://googleapis.github.io/genai-toolbox/getting-started/introduction/][genai-toolbox]]
+
+** MCP [6/6]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-26 Fri 13:38
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Read.org
+:ARCHIVE_OLPATH: READING non-books
+:ARCHIVE_CATEGORY: Read
+:END:
+ * [X] [[https://zhuanlan.zhihu.com/p/29001189476][知乎：MCP (Model Context Protocol)]]
+ * [X] [[https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide][Model Context Protocol(MCP) 编程极速入门]]
+ * [X] [[https://chatmcp.run][MCP 101]]
+ * [X] [[https://mcp-docs.cn/introduction][mcp docs]]
+ * [X] [[https://learn-mcp.com][Learn MCP]]
+ * [X] [[https://googleapis.github.io/genai-toolbox/getting-started/introduction/][genai-toolbox]]
+
+** LLM [5/5]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-26 Fri 13:39
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Read.org
+:ARCHIVE_OLPATH: READING non-books
+:ARCHIVE_CATEGORY: Read
+:END:
+ * [X] [cite:@XiSurvey2025] Xi, Lin & Xiao et al. (2025) A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, arXiv.
+ * [X] [cite:@Ph.DGPToss2025] Ph.D (2025) GPT-oss from the Ground Up, Deep (Learning) Focus.
+ * [X] [cite:@KalaiWhy2025] Kalai, Nachum & Vempala et al. (2025) Why Language Models Hallucinate, .
+ * [X] [cite:@MeiSurvey2025] Mei, Yao & Ge et al. (2025) A Survey of Context Engineering for Large Language Models, arXiv.
+ * [X] [cite:@MarjanovicDeepSeekR12025] Marjanović, Patel & Adlakha et al. (2025) DeepSeek-R1 Thoughtology: Let’s Think about LLM Reasoning, arXiv.
+
+** Misc [4/4]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-26 Fri 13:39
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Read.org
+:ARCHIVE_OLPATH: READING non-books
+:ARCHIVE_CATEGORY: Read
+:END:
+ * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][How to make use of Associations]]                 
+ * [X] [[https://community.wolfram.com/groups/-/m/t/1167544][A primer on Association and Dataset]]
+ * [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2410.08821v2.pdf][DeepNote: Note-Centric Deep Retrieval-Augmented Generation]]
+ * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][Welcome to the Era of Experience]]
+
+** AGI [1/1]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-26 Fri 13:39
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Read.org
+:ARCHIVE_OLPATH: READING non-books
+:ARCHIVE_CATEGORY: Read
+:END:
+ * [X] [[https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e][通往 AGI 之路]]
+
+** RAG [5/5]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-26 Fri 13:39
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Read.org
+:ARCHIVE_OLPATH: READING non-books
+:ARCHIVE_CATEGORY: Read
+:END:
+  * [X] [[https://docs.dify.ai/zh-hans/introduction][Dify 学习]]
+  * [X] [[https://zhuanlan.zhihu.com/p/1924537214358001643][dify简介]]
+  * [X] [[https://zhuanlan.zhihu.com/p/25771359587][dify 超快速构建AI agent]]
+  * [X] [cite:@PengGraph2024] Peng, Zhu & Liu et al. (2024) Graph Retrieval-Augmented Generation: A Survey, arXiv.
+  * [X] [cite:@GeSurvey2025] A Survey of Vibe Coding with Large Language Models
+
+** Agent [9/9]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-26 Fri 13:39
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Read.org
+:ARCHIVE_OLPATH: READING non-books
+:ARCHIVE_CATEGORY: Read
+:END:
+ * [X] [[https://www.luochang.ink/dive-into-langgraph//][Dive into LangGraph]]
+ * [X] [[https://github.com/humanlayer/12-factor-agents/tree/main?tab=readme-ov-file][12-factor-agents]]
+ * [X] [[https://zhuanlan.zhihu.com/p/81990476437][meta prompt 优化器：Lyra v2]]
+ * [X] [[/Users/fengh/Work/Company/FATAVAY/产品介绍/References/课程教学设计方案撰写v1-wendy.docx][课程教学设计方案撰写]]
+ * [X] [cite:@WangMIRIX2025] Wang & Chen (2025) MIRIX: Multi-Agent Memory System for LLM-Based Agents, arXiv.
+ * [X] [cite:@FerragLLM2025] Ferrag, Tihanyi & Debbah (2025) From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review, arXiv.
+ * [X] [cite:@LuoLarge2025] Luo, Zhang & Yuan et al. (2025) Large Language Model Agent: A Survey on Methodology, Applications and Challenges, arXiv.
+ * [X] [cite:@DuSurvey2025] Du, Zhao & Shi et al. (2025) A Survey on the Optimization of Large Language Model-based Agents, arXiv.
+ * [X] [cite:@DuranteAgent2024] Durante, Huang & Wake et al. (2024) Agent AI: Surveying the Horizons of Multimodal Interaction, arXiv.
+

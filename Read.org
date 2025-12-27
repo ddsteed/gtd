@@ -5,69 +5,26 @@
 :COOKIE_DATA: recursive
 :END:
 
-** CODE [0/1]
- * [ ] [[https://powerformer.feishu.cn/wiki/KrI1wxCKiisumTkOLJbcLeY7nec][Refly.ai]]
+** AI Study/Education/Tools Repository [0/4]
+ * [ ] [[https://www.vibevibe.cn][Vibe Vibe 人人都能学会的AI编程]]
+ * [ ] [[https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering][Agent Skills for Context Engineering]]
  * [ ] [[https://docs.langflow.org][LangFlow]]
+ * [ ] [[https://powerformer.feishu.cn/wiki/KrI1wxCKiisumTkOLJbcLeY7nec][Refly.ai]]
 
-** MCP [6/6]
- * [X] [[https://zhuanlan.zhihu.com/p/29001189476][知乎：MCP (Model Context Protocol)]]
- * [X] [[https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide][Model Context Protocol(MCP) 编程极速入门]]
- * [X] [[https://chatmcp.run][MCP 101]]
- * [X] [[https://mcp-docs.cn/introduction][mcp docs]]
- * [X] [[https://learn-mcp.com][Learn MCP]]
- * [X] [[https://googleapis.github.io/genai-toolbox/getting-started/introduction/][genai-toolbox]] 
-
-** LLM [5/5]
+** MISC [0/3]
  * [ ] [cite:@YangCode2025] Yang, Liu & Lv et al. (2025) From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence, arXiv.
- * [X] [cite:@XiSurvey2025] Xi, Lin & Xiao et al. (2025) A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges, arXiv.
- * [X] [cite:@Ph.DGPToss2025] Ph.D (2025) GPT-oss from the Ground Up, Deep (Learning) Focus.
- * [X] [cite:@KalaiWhy2025] Kalai, Nachum & Vempala et al. (2025) Why Language Models Hallucinate, .
- * [X] [cite:@MeiSurvey2025] Mei, Yao & Ge et al. (2025) A Survey of Context Engineering for Large Language Models, arXiv.
- * [X] [cite:@MarjanovicDeepSeekR12025] Marjanović, Patel & Adlakha et al. (2025) DeepSeek-R1 Thoughtology: Let’s Think about LLM Reasoning, arXiv.
-
-** Misc [4/4]
- * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][How to make use of Associations]]                 
- * [X] [[https://community.wolfram.com/groups/-/m/t/1167544][A primer on Association and Dataset]]
- * [X] [[/Users/fengh/Work/home1/feng/REFERENCES/PDF/arXiv.2410.08821v2.pdf][DeepNote: Note-Centric Deep Retrieval-Augmented Generation]]
- * [X] [[https://community.wolfram.com/groups/-/m/t/1184209][Welcome to the Era of Experience]]
-
-** AGI [1/1]
- * [X] [[https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e][通往 AGI 之路]]
-
-** RAG [5/6]
-  * [X] [[https://docs.dify.ai/zh-hans/introduction][Dify 学习]]
-  * [X] [[https://zhuanlan.zhihu.com/p/1924537214358001643][dify简介]]
-  * [X] [[https://zhuanlan.zhihu.com/p/25771359587][dify 超快速构建AI agent]]
-  * [X] [cite:@PengGraph2024] Peng, Zhu & Liu et al. (2024) Graph Retrieval-Augmented Generation: A Survey, arXiv.
-  * [ ] [cite:@DaShengWanZiChangWenDaiNiShiYongCozeDaZaoQiYeJiZhiShiKu] 大圣 () 万字长文带你使用 Coze 打造企业级知识库, .
-  * [X] [cite:@GeSurvey2025] A Survey of Vibe Coding with Large Language Models
-
-** Agent [9/9]
- * [X] [[https://www.luochang.ink/dive-into-langgraph//][Dive into LangGraph]]
- * [X] [[https://github.com/humanlayer/12-factor-agents/tree/main?tab=readme-ov-file][12-factor-agents]]
- * [X] [[https://zhuanlan.zhihu.com/p/81990476437][meta prompt 优化器：Lyra v2]]
- * [X] [[/Users/fengh/Work/Company/FATAVAY/产品介绍/References/课程教学设计方案撰写v1-wendy.docx][课程教学设计方案撰写]]
- * [X] [cite:@WangMIRIX2025] Wang & Chen (2025) MIRIX: Multi-Agent Memory System for LLM-Based Agents, arXiv.
- * [X] [cite:@FerragLLM2025] Ferrag, Tihanyi & Debbah (2025) From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review, arXiv.
- * [X] [cite:@LuoLarge2025] Luo, Zhang & Yuan et al. (2025) Large Language Model Agent: A Survey on Methodology, Applications and Challenges, arXiv.
- * [X] [cite:@DuSurvey2025] Du, Zhao & Shi et al. (2025) A Survey on the Optimization of Large Language Model-based Agents, arXiv.
- * [X] [cite:@DuranteAgent2024] Durante, Huang & Wake et al. (2024) Agent AI: Surveying the Horizons of Multimodal Interaction, arXiv.
-
-** 可视化 [0/1]
+ * [ ] [cite:@DaShengWanZiChangWenDaiNiShiYongCozeDaZaoQiYeJiZhiShiKu] 大圣 () 万字长文带你使用 Coze 打造企业级知识库, .
  * [ ] [[https://docs.getwren.ai/oss/overview/introduction?utm_source=github&utm_medium=content&utm_campaign=readme][Wren AI]]
-
-* READING books [1/14]
+   
+* READING books [0/12]
 :PROPERTIES:
 :COOKIE_DATA: recursive
 :END:
 
-** Professional [0/3]
+** Professional [0/2]
 *** ⚔ INPR [[/Users/RDS Library/Pascal Bornet/Agentic Artificial Intelligence (5279)/Agentic Artificial Intelligence - Pascal Bornet.epub][Agentic Artificial Intelligence]]            
 SCHEDULED: <2025-07-28 Mon>
 by Pascal Bornet & Jochen Wirtz &  Thomas H. Davenport & David De Cremer &  Brian Evergreen &  Phil Fersht &  Rakesh Gohel & Shail Khiyara & Nandan Mullakara & Pooja Sund 
-*** ⚔ INPR [[/Users/RDS Library/Antonio Gulli/Agentic Design Patterns_ A Hands-On Guide to Building Intelligent Systems (6558)/Agentic Design Patterns_ A Hands-On Guide - Antonio Gulli.pdf][Agentic Design Patterns A Hands-On Guide to Building Intelligent Systems]]
-SCHEDULED: <2025-10-09 Thu>
-by Antonio Gulli
 *** ⚔ INPR [[/Users/RDS Library/Antonio Gulli/智能体设计模式：智能系统构建实战指南 (6853)/智能体设计模式：智能系统构建实战指南 - Antonio Gulli.pdf][智能体设计模式]]
 SCHEDULED: <2025-12-22 Mon>
 by Antonio Gulli
@@ -94,7 +51,10 @@ by Anjanava Biswas & Wrick Talukdar
 *** [[https://d2l.ai/chapter_introduction/index.html][Dive into Deep Learning]]                          
 by Aston Zhang & Zachary C. Lipton & Mu Li & Alexander J. Smola
 
-** Non-Professional [1/11]
+** Non-Professional [0/10]
+*** ⚔ INPR [[/Users/RDS Library/刘道玉/拓荒与呐喊：一个大学校长的教改追求 (6728)/拓荒与呐喊：一个大学校长的教改追求 - 刘道玉.epub][拓荒与呐喊：一个大学校长的教改追求]]
+SCHEDULED: <2025-12-25 Thu>
+by 刘道玉
 *** ⚔ INPR [[/Users/RDS Library/加西亚•马尔克斯/百年孤独 (5731)/百年孤独 - 加西亚•马尔克斯.epub][百年孤独]]
 SCHEDULED: <2025-02-27 Thu>
 by 加西亚·马尔克斯
@@ -107,9 +67,6 @@ by 温伯陵
 *** ⚔ INPR [[/Users/RDS Library/杨渡/暗夜传灯人 (6770)/暗夜传灯人 - 杨渡.epub][暗夜传灯人]]
 SCHEDULED: <2025-12-08 Mon>
 by 杨渡
-*** ⚔ INPR [[/Users/RDS Library/刘道玉/拓荒与呐喊：一个大学校长的教改追求 (6728)/拓荒与呐喊：一个大学校长的教改追求 - 刘道玉.epub][拓荒与呐喊：一个大学校长的教改追求]]
-SCHEDULED: <2025-11-12 Wed>
-by 刘道玉
 *** ⚔ INPR [[/Users/RDS Library/陳墨/金庸小說的情愛世界 (6698)/金庸小說的情愛世界 - 陳墨.epub][金庸小说的情爱世界]]
 SCHEDULED: <2025-11-10 Mon>
 by 陈墨
