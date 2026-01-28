@@ -1,9 +1,8 @@
 #    -*- mode: org -*-
 #+STARTUP: nofold
 
-* Archived Tasks
-** 杂项
-*** 89 健身
+* 杂项
+** 89 健身
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-01-06 Wed 08:38
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
@@ -15,49 +14,49 @@
 :PROPERTIES:
 :LAST_REPEAT: [2020-12-26 Sat 20:00]
 :END:
-***** State "CANCELLED"  from "TODO"       [2020-12-26 Sat 20:00] \\
+**** State "CANCELLED"  from "TODO"       [2020-12-26 Sat 20:00] \\
   感冒，继续暂停
-***** State "CANCELLED"  from "TODO"       [2020-12-12 Sat 16:55] \\
+**** State "CANCELLED"  from "TODO"       [2020-12-12 Sat 16:55] \\
   成都疫情加重，暂停一次
-***** State "CANCELLED"  from "TODO"       [2020-12-19 Sat 10:55] \\
+**** State "CANCELLED"  from "TODO"       [2020-12-19 Sat 10:55] \\
   感冒加重，暂停一次
-*** 89 健身
-**** 康复训练 (10)
-***** [X] <2021-09-04 Sat 15:00-16:00>
-***** [X] <2021-08-06 Fri 14:00-15:00>
-***** [X] <2021-07-31 Sat 13:00-14:00>
-***** [X] <2021-07-24 Sat 13:00-14:00>
-***** [X] <2021-07-20 Tue 15:00-16:00>
-***** [X] <2021-07-13 Tue 15:00-16:00>
-***** [X] <2021-06-30 Wed 12:00-13:00>
-***** [X] <2021-06-23 Wed 11:00-12:00>
-***** [X] <2021-06-12 Sat 16:10-17:20>
-***** [X] <2021-06-09 Wed 14:00-14:40>
-**** 私教健身 (21)
-***** [X] <2021-09-04 Sat 14:00-15:00>
-***** [X] <2021-08-28 Sat 14:00-15:00>
-***** [X] <2021-08-13 Fri 15:20-16:00>
-***** [X] <2021-08-06 Fri 15:00-16:00>
-***** [X] <2021-07-31 Sat 14:00-15:00>
-***** [X] <2021-07-24 Sat 14:00-15:00>
-***** [X] <2021-07-20 Tue 14:00-15:00>
-***** [X] <2021-07-13 Tue 14:00-15:00>
-***** [X] <2021-06-30 Wed 11:00-12:00>
-***** [X] <2021-06-23 Wed 10:00-11:00>
-***** [X] <2021-06-16 Wed 10:00-11:00>
-***** [X] <2021-06-12 Sat 15:00-16:00>
-***** [X] <2021-06-09 Wed 14:40-15:40>
-***** [X] <2021-06-06 Sun 14:00-15:00>
-***** [X] <2021-05-30 Sun 14:00-15:00>
-***** [X] <2021-05-23 Sun 14:00-15:30>
-***** [X] <2021-05-19 Wed 15:00-16:00>
-***** [X] <2021-05-14 Fri 15:00-16:00>
-***** [X] <2021-05-12 Wed 10:00-11:00>
-***** [X] <2021-05-09 Sun 15:00-16:00>
-***** [X] <2021-04-30 Fri 14:30-15:30>
-**** DONE 自我健身 (1)
-***** [X] <2021-04-28 Wed 10:00-11:00>
-*** keep 健身
+** 89 健身
+*** 康复训练 (10)
+**** [X] <2021-09-04 Sat 15:00-16:00>
+**** [X] <2021-08-06 Fri 14:00-15:00>
+**** [X] <2021-07-31 Sat 13:00-14:00>
+**** [X] <2021-07-24 Sat 13:00-14:00>
+**** [X] <2021-07-20 Tue 15:00-16:00>
+**** [X] <2021-07-13 Tue 15:00-16:00>
+**** [X] <2021-06-30 Wed 12:00-13:00>
+**** [X] <2021-06-23 Wed 11:00-12:00>
+**** [X] <2021-06-12 Sat 16:10-17:20>
+**** [X] <2021-06-09 Wed 14:00-14:40>
+*** 私教健身 (21)
+**** [X] <2021-09-04 Sat 14:00-15:00>
+**** [X] <2021-08-28 Sat 14:00-15:00>
+**** [X] <2021-08-13 Fri 15:20-16:00>
+**** [X] <2021-08-06 Fri 15:00-16:00>
+**** [X] <2021-07-31 Sat 14:00-15:00>
+**** [X] <2021-07-24 Sat 14:00-15:00>
+**** [X] <2021-07-20 Tue 14:00-15:00>
+**** [X] <2021-07-13 Tue 14:00-15:00>
+**** [X] <2021-06-30 Wed 11:00-12:00>
+**** [X] <2021-06-23 Wed 10:00-11:00>
+**** [X] <2021-06-16 Wed 10:00-11:00>
+**** [X] <2021-06-12 Sat 15:00-16:00>
+**** [X] <2021-06-09 Wed 14:40-15:40>
+**** [X] <2021-06-06 Sun 14:00-15:00>
+**** [X] <2021-05-30 Sun 14:00-15:00>
+**** [X] <2021-05-23 Sun 14:00-15:30>
+**** [X] <2021-05-19 Wed 15:00-16:00>
+**** [X] <2021-05-14 Fri 15:00-16:00>
+**** [X] <2021-05-12 Wed 10:00-11:00>
+**** [X] <2021-05-09 Sun 15:00-16:00>
+**** [X] <2021-04-30 Fri 14:30-15:30>
+*** DONE 自我健身 (1)
+**** [X] <2021-04-28 Wed 10:00-11:00>
+** keep 健身
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-01-06 Wed 08:38
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
@@ -69,33 +68,33 @@
 :PROPERTIES:
 :LAST_REPEAT: [2020-12-26 Sat 19:59]
 :END:
-***** State "CANCELLED"  from "TODO"       [2020-12-26 Sat 19:59] \\
+**** State "CANCELLED"  from "TODO"       [2020-12-26 Sat 19:59] \\
   感冒，继续暂停
-***** State "CANCELLED"  from "TODO"       [2020-12-19 Sat 13:51] \\
+**** State "CANCELLED"  from "TODO"       [2020-12-19 Sat 13:51] \\
   感冒，暂停一次
-*** 汽车
+** 汽车
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:33
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_CATEGORY: Personal
 :END:
-**** ✔ DONE 购买雨刮器并安装
+*** ✔ DONE 购买雨刮器并安装
 <2020-12-19 Sat 11:30>
 
-*** Others
+** Others
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:33
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_CATEGORY: Personal
 :END:
-**** ✔ DONE 整理历年的日程安排
+*** ✔ DONE 整理历年的日程安排
 <2020-12-19 Sat 14:00-15:30>
-**** ✔ DONE 整理 Kindle 书籍
+*** ✔ DONE 整理 Kindle 书籍
 <2021-02-06 Sat 15:30-16:30>
-**** ✔ DONE 在 ZB 的机器上安装 Onyx
+*** ✔ DONE 在 ZB 的机器上安装 Onyx
 <2021-02-07 Sun 10:00>
 
-*** 理发
+** 理发
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:33
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
@@ -104,7 +103,7 @@
 :END:
 <2021-01-12 Tue>
 
-*** 洗牙
+** 洗牙
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:34
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
@@ -114,7 +113,7 @@
 :END:
 <2021-01-29 Fri 15:00-16:00>
 
-*** 双流区中医院鱼刺
+** 双流区中医院鱼刺
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:34
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
@@ -124,7 +123,7 @@
 :END:
 <2021-02-19 Fri 14:10-15:30>
 
-*** CANCELLED 脚护理
+** CANCELLED 脚护理
 CLOSED: [2021-04-30 Fri 16:34]
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:35
@@ -134,7 +133,7 @@ CLOSED: [2021-04-30 Fri 16:34]
 :ARCHIVE_TODO: CANCELLED
 :END:
 
-*** 阿向微创手术
+** 阿向微创手术
 CLOSED: [2021-01-29 Fri 18:23]
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:35
@@ -145,7 +144,7 @@ CLOSED: [2021-01-29 Fri 18:23]
 :END:
 <2021-01-29 Fri 07:30-12:00>
 
-*** 姥姥肾脏手术
+** 姥姥肾脏手术
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-04-30 Fri 16:35
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
@@ -153,112 +152,112 @@ CLOSED: [2021-01-29 Fri 18:23]
 :ARCHIVE_CATEGORY: Personal
 :ARCHIVE_TODO: ✔ DONE
 :END:
-**** ✔ DONE 手术
+*** ✔ DONE 手术
 <2021-01-06 Wed 08:00-14:30>*
-**** ✔ DONE 拆线换药
+*** ✔ DONE 拆线换药
 <2021-01-15 Fri 14:00-15:00>
 
-*** 孙老师
+** 孙老师
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-12-30 Thu 09:25
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_CATEGORY: Personal
 :END:
-**** ✔ DONE 看望孙老师
+*** ✔ DONE 看望孙老师
 <2021-06-02 Wed 10:00-12:40>
 <2021-02-05 Fri 15:30-16:30>
 
-*** Friends
+** Friends
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-12-30 Thu 09:25
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_CATEGORY: Personal
 :END:
-**** ✔ DONE 夸夸三人行
+*** ✔ DONE 夸夸三人行
 <2021-08-12 Thu 10:00-16:00> -**** 银泰 in99
 <2021-06-25 Fri 12:00-18:00> -**** 拾竹
 <2021-05-17 Mon 12:00-16:00> -**** 竹涟烤肉
 <2021-03-26 Fri 12:00-14:20> -**** 海底捞
 <2021-02-24 Wed 12:00-20:00> -**** 太古里
 <2021-01-08 Fri 12:00-16:00>
-**** ✔ DONE 川大小茶馆
+*** ✔ DONE 川大小茶馆
 <2021-10-16 Sat 12:00-17:00> -**** 张软玉家
 <2021-03-31 Wed 14:00-20:00> -**** 来福士
 <2021-02-21 Sun 12:00-17:00> -**** 陈敏家
-**** ✔ DONE 南科大看望竹子
+*** ✔ DONE 南科大看望竹子
 <2021-09-12 Sun 15:00-22:00>
 <2021-03-17 Wed 17:00-22:00>
-**** ✔ DONE 请递进班同学吃饭
+*** ✔ DONE 请递进班同学吃饭
 <2021-04-07 Wed 18:30-21:00> -**** 凤亭
-**** ✔ DONE 胡思乱想三人聚餐
+*** ✔ DONE 胡思乱想三人聚餐
 <2021-04-23 Fri 18:30-21:50>
 
-*** Home
+** Home
 :PROPERTIES:
 :ARCHIVE_TIME: 2021-12-30 Thu 09:26
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_CATEGORY: Personal
 :END:
-**** ✔ DONE movie **** <Soul>
+*** ✔ DONE movie **** <Soul>
 <2020-12-27 Sun 15:55-17:30>
-**** ✔ DONE movie **** <你好，李焕英>
+*** ✔ DONE movie **** <你好，李焕英>
 <2021-02-12 Fri 13:30-15:30>
-**** ✔ DONE 广汉金雁湖-德阳松林桃花山
+*** ✔ DONE 广汉金雁湖-德阳松林桃花山
 <2021-02-13 Sat 10:30-16:30>
-**** ✔ DONE 城市音乐厅川音歌剧片段音乐会
+*** ✔ DONE 城市音乐厅川音歌剧片段音乐会
 <2021-04-18 Sun 15:00-17:00>
-**** ✔ DONE 城研院收入证明
+*** ✔ DONE 城研院收入证明
 <2021-05-06 Thu 09:00>
 
-**** 吃饭
-***** ✔ DONE 乐山易姐牛肉
+*** 吃饭
+**** ✔ DONE 乐山易姐牛肉
 <2021-01-13 Wed 17:30>
-***** ✔ DONE Peter's
+**** ✔ DONE Peter's
 <2021-12-24 Fri 18:00-19:00>
 <2021-01-27 Wed 18:00-19:00>
-***** ✔ DONE 三缺一
+**** ✔ DONE 三缺一
 <2021-02-17 Wed 12:10-13:00> 
 <2021-01-28 Thu 18:30-19:30> <2021-01-12 Tue 18:00>
-***** ✔ DONE 小龙坎
+**** ✔ DONE 小龙坎
 <2021-06-27 Sun 18:00-19:00>
-***** ✔ DONE 津泽小筑
+**** ✔ DONE 津泽小筑
 <2021-09-11 Sat 18:00-20:00>
-**** ✔ DONE 飘飘班级毕业典礼
+*** ✔ DONE 飘飘班级毕业典礼
 <2021-06-10 Thu 14:00-17:00>
-**** ✔ DONE 飘飘学校毕业典礼
+*** ✔ DONE 飘飘学校毕业典礼
 <2021-06-18 Fri 13:20-17:30>
-**** ✔ DONE 送飘飘去出国
+*** ✔ DONE 送飘飘去出国
 <2021-09-12 Sun 08:30>-<2021-09-13 Mon 12:50>
 
-*** 工商银行
+** 工商银行
 :PROPERTIES:
 :ARCHIVE_TIME: 2022-07-12 Tue 10:00
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_OLPATH: 金融
 :ARCHIVE_CATEGORY: Personal
 :END:
-**** ✘ CANL 9259 卡续卡
+*** ✘ CANL 9259 卡续卡
 CLOSED: [2022-06-05 Sun 19:29] DEADLINE: <2022-06-01 Wed>
 
-***** 个人所得税
+**** 个人所得税
 :PROPERTIES:
 :ARCHIVE_TIME: 2022-07-12 Tue 10:00
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_OLPATH: 金融
 :ARCHIVE_CATEGORY: Personal
 :END:
-****** ✔ DONE 补交 2021 年度个人所得税
+***** ✔ DONE 补交 2021 年度个人所得税
 CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 
-***** 锻炼
+**** 锻炼
 :PROPERTIES:
 :ARCHIVE_TIME: 2023-01-02 Mon 15:29
 :ARCHIVE_FILE: ~/Work/GTD/Personal.org
 :ARCHIVE_CATEGORY: Personal
 :END:
 
-*** 杂项
-**** ✔ DONE 整理 kindle 电子书籍 <2017-01-08 Sun>
+** 杂项
+*** ✔ DONE 整理 kindle 电子书籍 <2017-01-08 Sun>
   :PROPERTIES:
   :ARCHIVE_TIME: 2017-01-13 Fri 11:11
   :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -267,7 +266,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
   :ARCHIVE_TODO: ✔ DONE
   :END:
 
-**** ✔ DONE 整理 gmail、163 邮箱，选定 YoMail 客户端<2017-01-08 Sun 20:00>--<2017-01-08 Sun 22:10>
+*** ✔ DONE 整理 gmail、163 邮箱，选定 YoMail 客户端<2017-01-08 Sun 20:00>--<2017-01-08 Sun 22:10>
   :PROPERTIES:
   :ARCHIVE_TIME: 2017-01-13 Fri 11:11
   :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -276,7 +275,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
   :ARCHIVE_TODO: ✔ DONE
   :END:
 
-**** ✔ DONE 请张春国报书发票和油票 <2017-01-12 Thu>
+*** ✔ DONE 请张春国报书发票和油票 <2017-01-12 Thu>
   :PROPERTIES:
   :ARCHIVE_TIME: 2017-01-13 Fri 11:11
   :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -285,7 +284,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
   :ARCHIVE_TODO: ✔ DONE
   :END:
 
-**** ✔ DONE 整理 Diary，转变成 org mode <2017-01-14 Sat 17:50>
+*** ✔ DONE 整理 Diary，转变成 org mode <2017-01-14 Sat 17:50>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -294,7 +293,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 初二上期家长会 <2017-01-15 Sun 14:30-18:00>
+*** ✔ DONE 初二上期家长会 <2017-01-15 Sun 14:30-18:00>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -303,7 +302,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 出国签证培训会 <2017-01-22 Sun 15:00-15:50>
+*** ✔ DONE 出国签证培训会 <2017-01-22 Sun 15:00-15:50>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -312,7 +311,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 和林风讨论她的科研方向 <2017-01-23 Mon 09:30-12:40>
+*** ✔ DONE 和林风讨论她的科研方向 <2017-01-23 Mon 09:30-12:40>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -321,7 +320,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 出国签证 <2017-01-24 Tue 08:00-9:40>
+*** ✔ DONE 出国签证 <2017-01-24 Tue 08:00-9:40>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -330,7 +329,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 开车前往攀枝花 <2017-01-28 Sat>
+*** ✔ DONE 开车前往攀枝花 <2017-01-28 Sat>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -339,7 +338,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 全家游玩二滩水电站 <2017-01-30 Mon>
+*** ✔ DONE 全家游玩二滩水电站 <2017-01-30 Mon>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -348,7 +347,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 开车返回文星 <2017-01-31 Tue>
+*** ✔ DONE 开车返回文星 <2017-01-31 Tue>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -357,7 +356,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 整理我在 wiznote 和 evernote 上的文章 <2017-02-01 Wed 09:00-18:00>
+*** ✔ DONE 整理我在 wiznote 和 evernote 上的文章 <2017-02-01 Wed 09:00-18:00>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -366,7 +365,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 整理 mendeley 里已发表的文章库 <2017-02-11 Sat 16:20-18:40>
+*** ✔ DONE 整理 mendeley 里已发表的文章库 <2017-02-11 Sat 16:20-18:40>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -375,7 +374,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 打扫西华小屋卫生 <2017-02-14 Tue 10:20-11:30>
+*** ✔ DONE 打扫西华小屋卫生 <2017-02-14 Tue 10:20-11:30>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-14 Tue 11:34
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -384,7 +383,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 整理理学院院长办公室 <2017-02-15 Wed 10:10-10:47>
+*** ✔ DONE 整理理学院院长办公室 <2017-02-15 Wed 10:10-10:47>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-15 Wed 10:47
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -393,7 +392,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 洗车 <2017-02-14 Tue 14:20-15:53>
+*** ✔ DONE 洗车 <2017-02-14 Tue 14:20-15:53>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-02-15 Wed 10:47
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -402,7 +401,7 @@ CLOSED: [2022-05-13 Fri 22:19] DEADLINE: <2022-06-01 Wed>
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 申报省学术带头人 [3/3]
+*** ✔ DONE 申报省学术带头人 [3/3]
 CLOSED: [2017-04-10 Mo 16:16] SCHEDULED: <2017-02-09 Thu> DEADLINE: <2017-04-10 Mo>n
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-04-16 Sun 10:36
@@ -411,11 +410,11 @@ CLOSED: [2017-04-10 Mo 16:16] SCHEDULED: <2017-02-09 Thu> DEADLINE: <2017-04-10 
 :ARCHIVE_CATEGORY: Personal
 :ARCHIVE_TODO: ✔ DONE
 :END:
-***** ✔ DONE 填写省学术带头人申报表 
-***** ✔ DONE SCI 收录证明
-***** ✔ DONE 整理 SCI 收录证明数据 <2017-03-09 Thu 14:30-15:30>
+**** ✔ DONE 填写省学术带头人申报表 
+**** ✔ DONE SCI 收录证明
+**** ✔ DONE 整理 SCI 收录证明数据 <2017-03-09 Thu 14:30-15:30>
 
-**** ✔ DONE 请张春国报手里的油票和书发票等
+*** ✔ DONE 请张春国报手里的油票和书发票等
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-04-16 Sun 10:36
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -424,7 +423,7 @@ CLOSED: [2017-04-10 Mo 16:16] SCHEDULED: <2017-02-09 Thu> DEADLINE: <2017-04-10 
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 更换隐私护照，办理港澳通行证 <2017-03-04 Sat 09:00-10:30>
+*** ✔ DONE 更换隐私护照，办理港澳通行证 <2017-03-04 Sat 09:00-10:30>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-04-16 Sun 10:36
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -433,7 +432,7 @@ CLOSED: [2017-04-10 Mo 16:16] SCHEDULED: <2017-02-09 Thu> DEADLINE: <2017-04-10 
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 美国圣地亚哥奥特莱斯购物 <2017-03-18 Sat 10:00-16:30>
+*** ✔ DONE 美国圣地亚哥奥特莱斯购物 <2017-03-18 Sat 10:00-16:30>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-04-16 Sun 10:36
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -443,7 +442,7 @@ CLOSED: [2017-04-10 Mo 16:16] SCHEDULED: <2017-02-09 Thu> DEADLINE: <2017-04-10 
 :END:
 - [X] 整理奥特莱斯购物支出 <2017-03-18 Sat 21:00-21:30>
 
-**** ✔ DONE 换西华小屋纱窗 <2017-02-20 Mon 15:30-16:40>
+*** ✔ DONE 换西华小屋纱窗 <2017-02-20 Mon 15:30-16:40>
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-04-16 Sun 10:36
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -452,7 +451,7 @@ CLOSED: [2017-04-10 Mo 16:16] SCHEDULED: <2017-02-09 Thu> DEADLINE: <2017-04-10 
 :ARCHIVE_TODO: ✔ DONE
 :END:
 
-**** ✔ DONE 西华苑房租 [2/2]
+*** ✔ DONE 西华苑房租 [2/2]
 :PROPERTIES:
 :ARCHIVE_TIME: 2017-04-16 Sun 10:38
 :ARCHIVE_FILE: ~/Work/Org/Personal.org
@@ -460,10 +459,10 @@ CLOSED: [2017-04-10 Mo 16:16] SCHEDULED: <2017-02-09 Thu> DEADLINE: <2017-04-10 
 :ARCHIVE_CATEGORY: Personal
 :ARCHIVE_TODO: ✔ DONE
 :END:
-***** ✔ DONE 整理西华苑 2016 年所有出租费用 <2017-01-22 Sun 14:20-14:43>
-***** ✔ DONE 发周墨西华苑出租费用 <2017-03-08 Wed>
+**** ✔ DONE 整理西华苑 2016 年所有出租费用 <2017-01-22 Sun 14:20-14:43>
+**** ✔ DONE 发周墨西华苑出租费用 <2017-03-08 Wed>
 
-**** ✔ DONE 骨科医院看腰
+*** ✔ DONE 骨科医院看腰
 CLOSED: [2020-11-19 Thu 13:00] SCHEDULED: <2020-11-19 Thu 09:00>
 :PROPERTIES:
 :ARCHIVE_TIME: 2020-12-04 Fri 19:53
@@ -471,7 +470,6 @@ CLOSED: [2020-11-19 Thu 13:00] SCHEDULED: <2020-11-19 Thu 09:00>
 :ARCHIVE_CATEGORY: Personal
 :ARCHIVE_TODO: ✔ DONE
 :END:
-
 
 * HS
 ** HS 2020 (94)
@@ -967,3 +965,102 @@ CLOSED: [2020-11-19 Thu 13:00] SCHEDULED: <2020-11-19 Thu 09:00>
 ***** <2024-02-04 Sun 13:35-13:45>
 ***** <2024-01-29 Mon 15:10-15:30>
 ***** <2024-01-29 Mon 08:50-09:00>
+
+** HS 2025 (87)
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-12-31 Wed 20:20
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Personal.org
+:ARCHIVE_CATEGORY: Personal
+:END:
+*** HSP (29)
+***** <2025-10-28 Tue 18:50-19:10>
+***** <2025-10-21 Tue 07:40-07:50> Video
+***** <2025-10-11 Sat 18:00-18:15>
+***** <2025-09-28 Sun 19:30-19:50>
+***** <2025-09-09 Tue 17:555-18:05>
+***** <2025-08-26 Tue 18:40-18:50>
+***** <2025-08-22 Fri 20:40-20:55>
+***** <2025-08-15 Fri 18:25-18:40>
+***** <2025-08-06 Wed 18:40-18:50>
+***** <2025-08-02 Sat 14:50-15:30> not ejaculation
+***** <2025-08-01 Fri 18:20-18:40> Mouth
+***** <2025-07-29 Tue 17:55-18:10>
+***** <2025-07-25 Fri 17:55-18:07>
+***** <2025-07-22 Tue 1830-18:40>
+***** <2025-07-15 Tue 17:55-18:15>
+***** <2025-05-22 Thu 19:00-19:10>
+***** <2025-05-13 Tue 20:40-20:40>
+***** <2025-05-08 Thu 19:55-20:05> Hand
+***** <2025-04-27 Sun 19:30-19:40>
+***** <2025-04-02 Wed 20:10-20:20>
+***** <2025-03-13 Thu 18:40-18:55>
+***** <2025-03-07 Fri 18:35-18:50>
+***** <2025-03-01 Sat 17:36-17:56> Mouth 
+***** <2025-02-27 Thu 18:25-18:35>
+***** <2025-02-20 Thu 17:20-17:40>
+***** <2025-02-07 Fri 20:00-20:20>
+***** <2025-02-06 Thu 20:50-21:05>
+***** <2025-01-17 Fri 19:40-20:00>
+***** <2025-01-12 Sun 13:50-14:10>
+
+*** HSS (5)
+***** <2025-12-24 Wed 12:20-12:25>
+***** <2025-06-24 Tue 19:50-19:55>
+***** <2025-05-12 Mon 12:50-12:55>
+***** <2025-05-08 Thu 12:10-12:15>
+***** <2025-02-02 Sun 10:20-10:28>
+
+*** HSZ (53)
+***** <2025-12-29 Mon 14:20-14:30>
+***** <2025-12-29 Mon 09:30-09:40>
+***** <2025-12-19 Fri 16:20:16:30>
+***** <2025-12-19 Fri 09:10-09:20>
+***** <2025-12-12 Fri 09:20-09:30>
+***** <2025-12-10 Wed 14:20-14:30>
+***** <2025-12-03 Wed 08:50-09:00>
+***** <2025-11-26 Wed 15:05-15:20>
+***** <2025-11-19 Wed 16:10-16:20> not ejaculation
+***** <2025-11-19 Wed 08:51-09:10>
+***** <2025-11-07 Fri 14:30-15:00> not ejaculation
+***** <2025-11-05 Wed 14:00-14:30>
+***** <2025-10-29 Wed 13:55-14:06>
+***** <2025-10-22 Wed 09:40-09:50>
+***** <2025-10-15 Wed 13:35-13:45>
+***** <2025-09-29 Mon 13:50-14:00>
+***** <2025-09-24 Wed 13:35-13:40> Hand
+***** <2025-09-17 Wed 09:02-09:12>
+***** <2025-09-10 Wed 09:00-09:05>
+***** <2025-09-02 Tue 08:58-09:05>
+***** <2025-08-19 Tue 08:40-08:50>
+***** <2025-08-13 Wed 14:25-14:32>
+***** <2025-08-05 Tue 14:2014:25>
+***** <2025-07-31 Thu 13:30-13:40>
+***** <2025-07-18 Fri 13:15-13:25>
+***** <2025-07-16 Wed 13:20-13:30>
+***** <2025-07-08 Tue 14:20-14:30>
+***** <2025-07-08 Tue 08:40-08:50>
+***** <2025-07-01 Tue 08:40-08:45>
+***** <2025-06-06 Fri 15:20-15:35>
+***** <2025-06-06 Fri 09:00-09:10>
+***** <2025-05-28 Wed 13:12-13:22>
+***** <2025-05-21 Wed 13:50-13:55> Hand
+***** <2025-05-16 Fri 14:05-14:15>
+***** <2025-04-29 Tue 15:25-15:35>
+***** <2025-04-25 Fri 22:20-22:30>
+***** <2025-04-24 Thu 22:20-22:40>
+***** <2025-04-23 Wed 14:10-14:20>
+***** <2025-04-16 Wed 14:25-14:30>
+***** <2025-04-09 Wed 14:12-14:17>
+***** <2025-03-31 Mon 14:00-14:05>
+***** <2025-03-26 Wed 13:55-14:05>
+***** <2025-03-23 Sun 13:53-14:00>
+***** <2025-03-19 Wed 14:20-14:30>
+***** <2025-03-12 Wed 14:26-14:36>
+***** <2025-03-05 Wed 14:20-14:30>
+***** <2025-02-26 Wed 13:50-14:00>
+***** <2025-02-19 Wed 13:20-13:30>
+***** <2025-02-12 Wed 13:58-14:00>
+***** <2025-02-05 Wed 11:37-11:47>
+***** <2025-01-14 Tue 1435-14:45>
+***** <2025-01-08 Wed 14:17-14:27> Hand
+***** <2025-01-03 Fri 08:15-08:25>

@@ -168,3 +168,16 @@ CLOSED: [2025-12-26 Fri 16:36]
   - [X] gemini-cli 
 - [X] 是否 Emacs 兼容
 - [X] 能用最新的 LLM 吗？
+
+** ✔ DONE 改进 lightrag 解析慢的问题
+CLOSED: [2026-01-01 Thu 09:19] SCHEDULED: <2025-11-04 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-01-01 Thu 09:19
+:ARCHIVE_FILE: ~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/GTD/Task.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: ⚔ INPR
+:END:
+- 分析 lightrag 代码
+- 找到解析的功能
+
