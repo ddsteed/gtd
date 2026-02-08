@@ -10,10 +10,10 @@ AI for Education
 *** 中级版
 *** 高级版
 
-** Tasks [1/5]
+** Tasks [2/5]
 - [X] 确定平台名称：造个 AI 吧
 - [ ] 设计前端风格
-- [ ] 确定后端支撑
+- [X] 确定后端支撑
 - [ ] 部署到云服务器
 - [ ] 一键发布
 
@@ -21,18 +21,25 @@ AI for Education
 *** 基本要求
 - 简单
 - 清爽
+- 语音交互
 *** 界面功能
 - 平台已有 AI 小伙伴
 - 自定义 AI 小伙伴
 - 定制主界面
-*** ⚔ INPR 如何设计界面
+*** ✔ DONE 如何设计界面
+CLOSED: [2026-01-30 Fri 13:24]
 - ChatGPT
+*** ⚔ INPR 设计前端界面
+SCHEDULED: <2026-01-30 Fri>
 
 ** 后端
-- [ ] langflow
+*** ⚔ INPR 研究后端技术
+- [ ] [[https://www.librechat.ai][librechat]] 
+- [ ] [[https://www.langflow.org][langflow]] 
 
 ** ☞ NEXT 移动版
-- 语音交互
+*** app
+*** 微信小程序
 
 ** AI 仓库
 - [X] 确定三大类：职场辅助/家庭生活管理/孩子学习教育

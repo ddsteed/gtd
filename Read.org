@@ -7,13 +7,13 @@
 
 ** To Read List [0/16]
  * [ ] [[https://www.vibevibe.cn/Basic/02-mindset/2.4-story-thinking/2.4.6-practice.html][Vibe Vibe]]
+ * [ ] [[https://anthropic.skilljar.com/claude-code-in-action/303235][Claude Code in Action]]
  * [ ] [[https://simonwillison.net/2025/Mar/11/using-llms-for-code/][Here’s how I use LLMs to help me write code -- Simon Willison]]
  * [ ] [[https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything][2025: The year in LLMs --- Simon Willison]]
  * [ ] [[https://www.anthropic.com/engineering/claude-code-best-practices][Claude Code: Best practices for agentic coding]]
  * [ ] [[https://claudecode.tangshuang.net/easy-tutorial/3.1%20开始你的第一次对话][Claude Code 深度教程]]
  * [ ] [[https://maryrosecook.com/blog/post/become-an-ai-augmented-engineer][Become an AI-augmented engineer --- Mary Rose Cook]]
  * [ ] [[https://learn.deeplearning.ai/courses/vibe-coding-101-with-replit/lesson/zwj9r/introduction][Vibe Coding 101 with Replit]]
- * [ ] [[https://anthropic.skilljar.com/claude-code-in-action][Claude Code in Action]]
  * [ ] [[https://www.vibevibe.cn][Vibe Vibe 人人都能学会的AI编程]]
  * [ ] [[https://claudecode.tangshuang.net/easy-course][Claude Code 深度课程]]
  * [ ] [[https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering][Agent Skills for Context Engineering]]
@@ -23,7 +23,8 @@
  * [ ] [cite:@DaShengWanZiChangWenDaiNiShiYongCozeDaZaoQiYeJiZhiShiKu] 大圣 () 万字长文带你使用 Coze 打造企业级知识库, .
  * [ ] [[https://docs.getwren.ai/oss/overview/introduction?utm_source=github&utm_medium=content&utm_campaign=readme][Wren AI]]
 
-** Done non-books [/]
+** Done non-books [1/1]
+ * [X] [[https://www.youtube.com/watch?v=AT4b9kLtQCQ][Claude Code 从0到1]]
 
 * READING books [1/12]
 :PROPERTIES:
@@ -152,13 +153,16 @@ by Jonathan Gottschall
 by Jim Collins & Bill Lazier
 
 
-* READ BOOKS (2)
+* READ BOOKS (3)
 ** Professional [0/0]
 
-** Non-Professional [2/2]
+** Non-Professional [3/3]
 *** ✔ DONE [[/Users/RDS Library/樊登/可复制的领导力：樊登的9堂商业课 (6687)/可复制的领导力：樊登的9堂商业课 - 樊登.epub][可复制的领导力]]
 CLOSED: [2026-01-09 Fri 20:38] SCHEDULED: <2026-01-01 Thu>
 by 樊登
 *** ✔ DONE [[/Users/RDS Library/Easy/一人企业方法论 (6863)/一人企业方法论 - Easy.epub][一人企业方法论]]
 CLOSED: [2026-01-26 Mon 21:55] SCHEDULED: <2026-01-13 Tue>
 by easy
+*** ✔ DONE 八万四千问
+CLOSED: [2026-02-07 Sat 22:03]
+by 宗萨蒋扬钦哲仁波切
